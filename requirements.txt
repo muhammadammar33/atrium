@@ -2,3 +2,4 @@ streamlit
 groq
 scikit-learn
 sentence-transformers
+torchvision
