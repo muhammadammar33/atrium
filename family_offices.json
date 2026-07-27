@@ -1,0 +1,205 @@
+[
+  {
+    "entity": "Duquesne Family Office LLC",
+    "fo_type": {
+      "value": "single",
+      "source": "cnbc.com; familyofficehub.io",
+      "confidence": "high",
+      "evidence": "single-family office of Stanley Druckenmiller; accepts no external capital"
+    },
+    "family": "Druckenmiller",
+    "location": {
+      "city": "New York",
+      "state": "NY",
+      "source": "SEC EDGAR submissions (CIK 0001536411)",
+      "confidence": "high"
+    },
+    "founded": {
+      "value": 2010,
+      "source": "cnbc.com",
+      "confidence": "medium",
+      "evidence": "formed after Druckenmiller closed Duquesne Capital to outside investors"
+    },
+    "aum": {
+      "value": "$4B-$8B",
+      "note": "sources disagree; recorded as a range",
+      "source": "cnbc.com; familyofficehub.io",
+      "confidence": "medium"
+    },
+    "thesis": {
+      "value": "concentrated global macro; multi-asset across public and private markets",
+      "source": "cnbc.com",
+      "confidence": "medium"
+    },
+    "headcount": {
+      "value": null,
+      "source": null,
+      "confidence": "n/a"
+    },
+    "decision_makers": [
+      {
+        "name": "Stanley Druckenmiller",
+        "title": "Founder / Chairman",
+        "work_email": null,
+        "direct_phone": null,
+        "linkedin": null,
+        "source": "cnbc.com",
+        "confidence": "high"
+      }
+    ],
+    "firm_contact": {
+      "website": null,
+      "email": null,
+      "phone": null,
+      "address": null,
+      "linkedin": null,
+      "source": null,
+      "confidence": "n/a"
+    },
+    "identifiers": {
+      "cik": "0001536411",
+      "ein": null
+    },
+    "discovered_via": "SEC EDGAR full-text search, form 13F-HR, phrase \"family office\"",
+    "proof_source": "cnbc.com / familyofficehub.io (independent of the discovery source)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "The Jeffrey Company (Jeffrey Fiduciary Co.)",
+    "fo_type": {
+      "value": "single",
+      "source": "jeffreyco.com; pitchbook.com",
+      "confidence": "high",
+      "evidence": "self-describes as family office and trust company; profile lists it as a single-family office in Columbus"
+    },
+    "family": "Jeffrey",
+    "location": {
+      "city": "Columbus",
+      "state": "OH",
+      "source": "jeffreyco.com",
+      "confidence": "high"
+    },
+    "founded": {
+      "value": null,
+      "note": "family enterprise since 1877; modern family-office/trust structure, exact formation date unverified",
+      "source": "jeffreyco.com/our-history",
+      "confidence": "low"
+    },
+    "aum": {
+      "value": null,
+      "note": "not publicly disclosed",
+      "source": null,
+      "confidence": "n/a"
+    },
+    "thesis": {
+      "value": "global investment fund, family office and trust services; long-horizon multi-asset",
+      "source": "rocketreach.co (firm description)",
+      "confidence": "medium"
+    },
+    "headcount": {
+      "value": "~9",
+      "source": "rocketreach.co",
+      "confidence": "medium"
+    },
+    "decision_makers": [
+      {
+        "name": "Kerry Houghton",
+        "title": "CEO",
+        "work_email": null,
+        "direct_phone": null,
+        "linkedin": null,
+        "source": "rocketreach.co",
+        "confidence": "medium"
+      }
+    ],
+    "firm_contact": {
+      "website": "jeffreyco.com",
+      "email": "info@jeffreyfc.com",
+      "phone": "(614) 221-6115",
+      "address": "140 East Town Street, Suite 1400, Columbus, OH 43215",
+      "linkedin": null,
+      "source": "jeffreyco.com (firm's own website)",
+      "confidence": "high"
+    },
+    "identifiers": {
+      "cik": "0001994532",
+      "ein": null
+    },
+    "discovered_via": "SEC EDGAR full-text search, form 40-APP, phrase \"single family office\"",
+    "proof_source": "jeffreyco.com + pitchbook.com (independent of the discovery source)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Henry Crown and Company (HCC)",
+    "fo_type": {
+      "value": "single",
+      "source": "businesswire.com; snowbrains.com",
+      "confidence": "high",
+      "evidence": "explicitly described as \"the family office for the Crown family\""
+    },
+    "family": "Crown",
+    "location": {
+      "city": "Chicago",
+      "state": "IL",
+      "source": "chicagocollections.org",
+      "confidence": "high"
+    },
+    "founded": {
+      "value": 1959,
+      "source": "en.wikipedia.org/Henry_Crown",
+      "confidence": "high"
+    },
+    "aum": {
+      "value": null,
+      "note": "not publicly disclosed",
+      "source": "altss.com",
+      "confidence": "n/a"
+    },
+    "thesis": {
+      "value": "public securities, real estate, private equity, infrastructure, operating companies, sports franchises (Bulls; Aspen Skiing; Alterra)",
+      "source": "altss.com",
+      "confidence": "medium"
+    },
+    "headcount": {
+      "value": "~200 professionals",
+      "source": "chicagocollections.org; LinkedIn",
+      "confidence": "medium"
+    },
+    "decision_makers": [
+      {
+        "name": "Steve Crown",
+        "title": "Executive Chairman",
+        "work_email": null,
+        "direct_phone": null,
+        "linkedin": null,
+        "source": "businesswire.com 2025-01-23",
+        "confidence": "high"
+      },
+      {
+        "name": "Bill Crown",
+        "title": "President & CEO",
+        "work_email": null,
+        "direct_phone": null,
+        "linkedin": null,
+        "source": "altss.com; businesswire.com",
+        "confidence": "high"
+      }
+    ],
+    "firm_contact": {
+      "website": null,
+      "email": null,
+      "phone": null,
+      "address": null,
+      "linkedin": "linkedin.com/company/henry-crown-&-company",
+      "source": "linkedin.com",
+      "confidence": "high"
+    },
+    "identifiers": {
+      "cik": null,
+      "ein": null
+    },
+    "discovered_via": "ProPublica 990-PF trail (Crown Family Foundation, Chicago)",
+    "proof_source": "businesswire.com / snowbrains.com (independent of the discovery source)",
+    "record_confidence": "high"
+  }
+]

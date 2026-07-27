@@ -1,0 +1,602 @@
+[
+  {
+    "entity": "DLS CAPITAL PARTNERS, INC.",
+    "cik": "0000930932",
+    "form": "STMT FIN COND NOTES",
+    "filed": "2016-08-29",
+    "accession": "0000930932-16-000002",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Ascend Wellness Holdings, Inc.  (AAWH",
+    "cik": "0001756390",
+    "form": "EX-99.1",
+    "filed": "2024-08-28",
+    "accession": "0001628280-24-038714",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "MANNING & NAPIER FUND, INC.",
+    "cik": "0000751173",
+    "form": "497",
+    "filed": "2023-06-08",
+    "accession": "0001387131-23-007401",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Cue Health Inc.  (HLTHQ",
+    "cik": "0001628945",
+    "form": "EX-99",
+    "filed": "2023-09-11",
+    "accession": "0000902664-23-004716",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "PETMED EXPRESS INC  (PETS",
+    "cik": "0001040130",
+    "form": "EX-99.2",
+    "filed": "2026-06-29",
+    "accession": "0001213900-26-072848",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Jeffrey Management Co",
+    "cik": "0001994532",
+    "form": "40-APP",
+    "filed": "2023-09-26",
+    "accession": "0001193125-23-242105",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "OKYO Pharma Ltd  (OKYO",
+    "cik": "0001849296",
+    "form": "SCHEDULE 13G",
+    "filed": "2025-03-18",
+    "accession": "0001137439-25-000228",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "KAZIA THERAPEUTICS LTD  (KZIA",
+    "cik": "0001075880",
+    "form": "SCHEDULE 13G/A",
+    "filed": "2025-08-05",
+    "accession": "0001137439-25-000994",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "AEON Biopharma, Inc.  (AEON",
+    "cik": "0001837607",
+    "form": "SCHEDULE 13G",
+    "filed": "2025-03-03",
+    "accession": "0001137439-25-000157",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Azitra, Inc.  (AZTR",
+    "cik": "0001701478",
+    "form": "SCHEDULE 13G",
+    "filed": "2026-06-25",
+    "accession": "0002044285-26-000008",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "FEMASYS INC  (FEMY",
+    "cik": "0001339005",
+    "form": "SCHEDULE 13G",
+    "filed": "2025-02-26",
+    "accession": "0001137439-25-000124",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "AMTECH SYSTEMS INC  (ASYS",
+    "cik": "0000720500",
+    "form": "SC 13D/A",
+    "filed": "2017-08-24",
+    "accession": "0000893838-17-000065",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Averick Robert M",
+    "cik": "0001343599",
+    "form": "4",
+    "filed": "2021-03-25",
+    "accession": "0001104659-21-041566",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "CKX LANDS, INC.  (CKX",
+    "cik": "0000352955",
+    "form": "EX-99.1",
+    "filed": "2022-05-09",
+    "accession": "0001437749-22-011538",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "GULF ISLAND FABRICATION INC  (GIFI",
+    "cik": "0001031623",
+    "form": "SC 13D/A",
+    "filed": "2023-06-02",
+    "accession": "0001104659-23-067528",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "WILMINGTON TRUST CORP",
+    "cik": "0000872821",
+    "form": "8-K",
+    "filed": "2007-09-20",
+    "accession": "0000893220-07-003141",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "HARTFORD SERIES FUND INC",
+    "cik": "0001053425",
+    "form": "497K",
+    "filed": "2025-02-28",
+    "accession": "0001193125-25-041088",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Scully Royalty Ltd.  (SRL",
+    "cik": "0000016859",
+    "form": "EX-99.5",
+    "filed": "2025-12-29",
+    "accession": "0001213900-25-126241",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "NEXTNAV INC.  (NN, NNAVW, NXNVW",
+    "cik": "0001865631",
+    "form": "EX-99.1",
+    "filed": "2022-08-10",
+    "accession": "0001213900-22-046124",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Raytech Holding Ltd  (RAY",
+    "cik": "0001948443",
+    "form": "6-K",
+    "filed": "2026-04-15",
+    "accession": "0001213900-26-043783",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "TG Venture Acquisition Corp.",
+    "cik": "0001865191",
+    "form": "EX-99.2",
+    "filed": "2021-11-05",
+    "accession": "0001731122-21-001810",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "SYNALLOY CORP  (ACNT",
+    "cik": "0000095953",
+    "form": "8-K",
+    "filed": "2011-08-12",
+    "accession": "0000095953-11-000029",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "HERTZ GLOBAL HOLDINGS, INC  (HTZ, HTZWW",
+    "cik": "0001657853",
+    "form": "EX-99.1",
+    "filed": "2021-10-06",
+    "accession": "0001104659-21-123678",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "NLS Pharmaceutics Ltd.  (NLSP, NLSPW",
+    "cik": "0001783036",
+    "form": "6-K",
+    "filed": "2022-06-06",
+    "accession": "0001213900-22-031266",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Sunstone Hotel Investors, Inc.  (SHO, SHO-PH, SHO-PI",
+    "cik": "0001295810",
+    "form": "EX-99.1",
+    "filed": "2025-11-17",
+    "accession": "0001193125-25-283930",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Avanti Acquisition Corp.",
+    "cik": "0001819608",
+    "form": "EX-99.1",
+    "filed": "2020-11-20",
+    "accession": "0001193125-20-299308",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Advisers Investment Trust",
+    "cik": "0001516523",
+    "form": "497",
+    "filed": "2020-11-23",
+    "accession": "0001193125-20-301038",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Music Licensing Inc.  (SONG",
+    "cik": "0001671132",
+    "form": "1-U",
+    "filed": "2024-01-29",
+    "accession": "0001213900-24-007202",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Bridger Aerospace Group Holdings, Inc.  (BAER, BAERW",
+    "cik": "0001941536",
+    "form": "8-K",
+    "filed": "2023-09-13",
+    "accession": "0001941536-23-000005",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "PowerUp Acquisition Corp.  (PWUP, PWUPU, PWUPW",
+    "cik": "0001847345",
+    "form": "8-K",
+    "filed": "2022-05-19",
+    "accession": "0001104659-22-062870",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "GENERAL CANNABIS CORP  (CANN",
+    "cik": "0001477009",
+    "form": "8-K",
+    "filed": "2021-05-07",
+    "accession": "0001558370-21-006357",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "SMA RELATIONSHIP TRUST",
+    "cik": "0001225290",
+    "form": "497",
+    "filed": "2023-11-22",
+    "accession": "0001104659-23-120816",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Akoustis Technologies, Inc.  (AKTS",
+    "cik": "0001584754",
+    "form": "8-K",
+    "filed": "2023-03-23",
+    "accession": "0001213900-23-022228",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "CB RICHARD ELLIS GROUP INC  (CBRE",
+    "cik": "0001138118",
+    "form": "EX-99.2",
+    "filed": "2008-05-16",
+    "accession": "0001193125-08-116987",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "HealthLynked Corp  (HLYK",
+    "cik": "0001680139",
+    "form": "EX-99.1",
+    "filed": "2020-11-12",
+    "accession": "0001213900-20-036321",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "RF Acquisition Corp.  (RFAC, RFACR, RFACU, RFACW",
+    "cik": "0001847607",
+    "form": "EX-99.1",
+    "filed": "2024-01-16",
+    "accession": "0001104659-24-003892",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Medovex Corp.  (IVRN",
+    "cik": "0001591165",
+    "form": "EX-99.2",
+    "filed": "2017-08-21",
+    "accession": "0001654954-17-007776",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Sky Quarry Inc.  (SKYQ",
+    "cik": "0001812447",
+    "form": "8-K",
+    "filed": "2025-01-15",
+    "accession": "0001096906-25-000045",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Monaker Group, Inc.  (NXTP",
+    "cik": "0001372183",
+    "form": "EX-99.1",
+    "filed": "2019-06-27",
+    "accession": "0001580695-19-000252",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "VivoSim Labs, INC.  (VIVS",
+    "cik": "0001497253",
+    "form": "EX-99.1",
+    "filed": "2026-04-03",
+    "accession": "0001193125-26-142106",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Nuburu, Inc.  (BURU, BURUW",
+    "cik": "0001814215",
+    "form": "EX-99.1",
+    "filed": "2026-07-21",
+    "accession": "0001193125-26-310537",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "CLEARSIGN COMBUSTION CORP  (CLIR",
+    "cik": "0001434524",
+    "form": "EX-99.1",
+    "filed": "2018-07-17",
+    "accession": "0001144204-18-038673",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "SANDRIDGE ENERGY INC  (SD",
+    "cik": "0001349436",
+    "form": "EX-99.1",
+    "filed": "2024-10-01",
+    "accession": "0001213900-24-084151",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "BioSig Technologies, Inc.  (BSGM",
+    "cik": "0001530766",
+    "form": "EX-99.2",
+    "filed": "2025-05-05",
+    "accession": "0001641172-25-008624",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "UNIFIED SERIES TRUST",
+    "cik": "0001199046",
+    "form": "497",
+    "filed": "2022-02-24",
+    "accession": "0001580642-22-000931",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Aura Fat Projects Acquisition Corp  (AFAR, AFARU, AFARW",
+    "cik": "0001901886",
+    "form": "425",
+    "filed": "2024-07-22",
+    "accession": "0001829126-24-004896",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Investview, Inc.  (INVU, INVUP",
+    "cik": "0000862651",
+    "form": "EX-99.1",
+    "filed": "2022-02-23",
+    "accession": "0001493152-22-005250",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "HighCom Global Security, Inc.",
+    "cik": "0001102358",
+    "form": "8-K",
+    "filed": "2019-01-08",
+    "accession": "0001493152-19-000286",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "AltEnergy Acquisition Corp  (AEAE, AEAEU, AEAEW",
+    "cik": "0001852016",
+    "form": "8-K",
+    "filed": "2026-03-27",
+    "accession": "0001193125-26-126955",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Muscle Maker, Inc.  (SDOT",
+    "cik": "0001701756",
+    "form": "8-K",
+    "filed": "2023-04-11",
+    "accession": "0001493152-23-011808",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Nuvve Holding Corp.  (NVVE, NVVEW",
+    "cik": "0001836875",
+    "form": "EX-99.1",
+    "filed": "2026-03-06",
+    "accession": "0001213900-26-024347",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "NAVIDEA BIOPHARMACEUTICALS, INC.  (NAVB",
+    "cik": "0000810509",
+    "form": "EX-99.1",
+    "filed": "2022-09-30",
+    "accession": "0001437749-22-023281",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "UBS FUNDS",
+    "cik": "0000886244",
+    "form": "497",
+    "filed": "2023-11-22",
+    "accession": "0001104659-23-120817",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Critical Metals Corp.  (CRML, CRMLW, CRTMF",
+    "cik": "0001951089",
+    "form": "EX-99.1",
+    "filed": "2025-11-25",
+    "accession": "0001213900-25-114760",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "VIGILANT DIVERSIFIED HOLDINGS, INC./NV",
+    "cik": "0001653099",
+    "form": "8-K",
+    "filed": "2018-07-09",
+    "accession": "0001493152-18-009786",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "CARBO CERAMICS INC",
+    "cik": "0001009672",
+    "form": "8-K",
+    "filed": "2019-06-20",
+    "accession": "0001564590-19-022937",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "INVACARE HOLDINGS Corp",
+    "cik": "0000742112",
+    "form": "8-K",
+    "filed": "2024-02-16",
+    "accession": "0000742112-24-000004",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Angel Studios, Inc.",
+    "cik": "0001671941",
+    "form": "8-K",
+    "filed": "2025-06-10",
+    "accession": "0001104659-25-058210",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Premium Nickel Resources Ltd.  (PNRLF",
+    "cik": "0000795800",
+    "form": "EX-99.1",
+    "filed": "2023-08-08",
+    "accession": "0001062993-23-015995",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Luokung Technology Corp.  (LKCO",
+    "cik": "0001487839",
+    "form": "6-K",
+    "filed": "2019-12-30",
+    "accession": "0001213900-19-027144",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Beneficient  (BENF, BENFW",
+    "cik": "0001775734",
+    "form": "8-K",
+    "filed": "2026-03-12",
+    "accession": "0001493152-26-009772",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Springwater Special Situations Corp.",
+    "cik": "0001838000",
+    "form": "8-K",
+    "filed": "2023-05-18",
+    "accession": "0001213900-23-041194",
+    "discovered_via": "\"single family office\""
+  },
+  {
+    "entity": "Fantex, Inc.",
+    "cik": "0001573683",
+    "form": "FWP",
+    "filed": "2014-05-22",
+    "accession": "0001104659-14-040795",
+    "discovered_via": "\"our family office\""
+  },
+  {
+    "entity": "CI Financial Corp.  (CIXXF",
+    "cik": "0001829948",
+    "form": "EX-99.1",
+    "filed": "2022-05-10",
+    "accession": "0001157523-22-000598",
+    "discovered_via": "\"our family office\""
+  },
+  {
+    "entity": "SEI INVESTMENTS CO  (SEIC",
+    "cik": "0000350894",
+    "form": "EX-99.2",
+    "filed": "2025-04-23",
+    "accession": "0000350894-25-000065",
+    "discovered_via": "\"our family office\""
+  },
+  {
+    "entity": "Silvercrest Asset Management Group Inc.  (SAMG",
+    "cik": "0001549966",
+    "form": "EX-99.1",
+    "filed": "2016-11-03",
+    "accession": "0001564590-16-027411",
+    "discovered_via": "\"our family office\""
+  },
+  {
+    "entity": "MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW",
+    "cik": "0000895421",
+    "form": "EX-99.1",
+    "filed": "2024-04-16",
+    "accession": "0000895421-24-000315",
+    "discovered_via": "\"our family office\""
+  },
+  {
+    "entity": "Legacy Education Alliance, Inc.  (LEAI",
+    "cik": "0001561880",
+    "form": "EX-99.4",
+    "filed": "2022-03-15",
+    "accession": "0001493152-22-006807",
+    "discovered_via": "\"our family office\""
+  },
+  {
+    "entity": "FANHUA INC.  (FANH",
+    "cik": "0001413855",
+    "form": "EX-99.1",
+    "filed": "2023-05-30",
+    "accession": "0001213900-23-043821",
+    "discovered_via": "\"our family office\""
+  },
+  {
+    "entity": "Alvarium Tiedemann Holdings, Inc.  (ALTI",
+    "cik": "0001838615",
+    "form": "EX-99.3",
+    "filed": "2023-04-18",
+    "accession": "0001193125-23-103955",
+    "discovered_via": "\"our family office\""
+  },
+  {
+    "entity": "UBS Group AG  (UBS",
+    "cik": "0001610520",
+    "form": "6-K",
+    "filed": "2018-01-22",
+    "accession": "0001610520-18-000007",
+    "discovered_via": "\"our family office\""
+  },
+  {
+    "entity": "FIRST BUSEY CORP /NV/  (BUSE",
+    "cik": "0000314489",
+    "form": "EX-99.1",
+    "filed": "2023-05-10",
+    "accession": "0000314489-23-000063",
+    "discovered_via": "\"our family office\""
+  },
+  {
+    "entity": "Fat Brands, Inc  (FAT, FATBB, FATBP, FATBW",
+    "cik": "0001705012",
+    "form": "EX1A-13 TST WTRS",
+    "filed": "2017-09-27",
+    "accession": "0001493152-17-010945",
+    "discovered_via": "\"our family office\""
+  },
+  {
+    "entity": "PFS FUNDS",
+    "cik": "0001103243",
+    "form": "N-CSR",
+    "filed": "2018-02-23",
+    "accession": "0001413042-18-000036",
+    "discovered_via": "\"our family office\""
+  },
+  {
+    "entity": "FCB FINANCIAL HOLDINGS, INC.",
+    "cik": "0001476651",
+    "form": "425",
+    "filed": "2018-07-24",
+    "accession": "0001193125-18-224829",
+    "discovered_via": "\"our family office\""
+  }
+]

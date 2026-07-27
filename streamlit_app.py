@@ -1,10 +1,8 @@
 """
-streamlit_app.py  --  Streamlit interface for the Atrium family-office RAG.
+Streamlit UI for the Atrium family-office RAG.
 
-The reasoning lives in engine.py (retrieval + grounding controls + generation),
-unchanged. This file is only the presentation layer. It reads the Groq key from
-Streamlit secrets (on Streamlit Cloud) or from the environment (locally) and
-renders answer/decline states plus source cards with per-record confidence bars.
+Presentation only: secrets bridge, answer/decline states, and source cards
+with per-record confidence. Retrieval and grounding live in engine.py.
 """
 
 import os
@@ -14,8 +12,7 @@ import streamlit as st
 st.set_page_config(page_title="Atrium — Family Office Intelligence",
                    page_icon="🏛️", layout="centered")
 
-# Bridge the Streamlit Cloud secret to an env var so engine.py (which reads
-# os.environ) works unchanged. Locally, you set GROQ_API_KEY yourself.
+# Bridge Streamlit Cloud secrets into os.environ so engine.py can stay unchanged.
 try:
     if "GROQ_API_KEY" in st.secrets:
         os.environ["GROQ_API_KEY"] = st.secrets["GROQ_API_KEY"]
@@ -56,6 +53,10 @@ html, body, [class*="css"] {font-family:'Inter',system-ui,sans-serif}
 .atrium-source .bar i{display:block;height:100%;border-radius:3px}
 .atrium-source .val{font-family:'IBM Plex Mono',monospace;font-size:12px;color:#5C6660;min-width:34px;text-align:right}
 .atrium-source .txt{font-size:15px;color:#16211C;line-height:1.55}
+.stButton > button[kind="primary"], button[data-testid="stBaseButton-primary"] {
+  background: #1F4438 !important;
+  border-color: #1F4438 !important;
+}
 </style>
 """
 

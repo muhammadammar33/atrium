@@ -1,0 +1,442 @@
+[
+  {
+    "entity": "EMFO, LLC",
+    "cik": "0001859434",
+    "form": "INFORMATION TABLE",
+    "filed": "2024-01-30",
+    "accession": "0001859434-24-000002",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Allie Family Office LLC",
+    "cik": "0001908612",
+    "form": "13F-HR",
+    "filed": "2024-02-12",
+    "accession": "0001908612-24-000001",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "HALL LAURIE J TRUSTEE",
+    "cik": "0001388382",
+    "form": "13F-HR",
+    "filed": "2026-04-06",
+    "accession": "0001388382-26-000002",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Crestone Asset Management LLC",
+    "cik": "0001845617",
+    "form": "13F-HR",
+    "filed": "2024-07-23",
+    "accession": "0001214659-24-012830",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Veritable, L.P.",
+    "cik": "0001300311",
+    "form": "13F-HR",
+    "filed": "2023-11-14",
+    "accession": "0001172661-23-003950",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Dorsey & Whitney Trust CO LLC",
+    "cik": "0001384042",
+    "form": "13F-HR",
+    "filed": "2019-11-08",
+    "accession": "0001062993-19-004250",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Pathstone Family Office, LLC",
+    "cik": "0001511137",
+    "form": "13F-HR",
+    "filed": "2012-05-08",
+    "accession": "0001085146-12-000650",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Biltmore Family Office, LLC",
+    "cik": "0001731123",
+    "form": "13F-HR",
+    "filed": "2018-07-17",
+    "accession": "0001398344-18-010172",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "INTREPID FAMILY OFFICE LLC",
+    "cik": "0001596197",
+    "form": "13F-HR",
+    "filed": "2025-11-14",
+    "accession": "0001013594-25-001405",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Tarbox Family Office, Inc.",
+    "cik": "0001599603",
+    "form": "13F-HR",
+    "filed": "2019-08-02",
+    "accession": "0001599603-19-000006",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Duquesne Family Office LLC",
+    "cik": "0001536411",
+    "form": "13F-HR",
+    "filed": "2019-05-15",
+    "accession": "0001536411-19-000005",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "CVA Family Office, LLC",
+    "cik": "0001802084",
+    "form": "13F-HR",
+    "filed": "2021-07-13",
+    "accession": "0001802084-21-000003",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Custos Family Office, LLC",
+    "cik": "0001904423",
+    "form": "13F-HR",
+    "filed": "2022-02-09",
+    "accession": "0001904423-22-000001",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "COLLECTIVE FAMILY OFFICE LLC",
+    "cik": "0001845066",
+    "form": "13F-HR",
+    "filed": "2023-10-13",
+    "accession": "0001845066-23-000008",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Arrowroot Family Office, LLC",
+    "cik": "0002017744",
+    "form": "13F-HR",
+    "filed": "2024-04-17",
+    "accession": "0001420506-24-000606",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Independent Family Office, LLC",
+    "cik": "0001756485",
+    "form": "13F-HR",
+    "filed": "2025-05-13",
+    "accession": "0001951757-25-000549",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "BOSTON FAMILY OFFICE LLC",
+    "cik": "0001039807",
+    "form": "13F-HR",
+    "filed": "2023-11-13",
+    "accession": "0001039807-23-000008",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Kopp Family Office, LLC",
+    "cik": "0001683689",
+    "form": "13F-HR",
+    "filed": "2022-05-16",
+    "accession": "0001683689-22-000003",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Fortitude Family Office, LLC",
+    "cik": "0001950506",
+    "form": "13F-HR",
+    "filed": "2025-10-17",
+    "accession": "0001950506-25-000008",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Stenger Family Office, LLC",
+    "cik": "0002056106",
+    "form": "13F-HR",
+    "filed": "2026-03-04",
+    "accession": "0002085853-26-000294",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Callan Family Office, LLC",
+    "cik": "0001938970",
+    "form": "13F-HR",
+    "filed": "2025-11-04",
+    "accession": "0001938970-25-000004",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Stokes Family Office, LLC",
+    "cik": "0001802278",
+    "form": "13F-HR",
+    "filed": "2021-02-10",
+    "accession": "0001062993-21-001191",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Capitol Family Office, Inc.",
+    "cik": "0001863768",
+    "form": "13F-HR",
+    "filed": "2026-04-15",
+    "accession": "0001863768-26-000004",
+    "discovered_via": "13F-HR | \"family office\"",
+    "signal": "strong: 13F holdings filer (investment manager)",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Jeffrey Management Co",
+    "cik": "0001994532",
+    "form": "40-APP",
+    "filed": "2023-09-26",
+    "accession": "0001193125-23-242105",
+    "discovered_via": "40-APP | \"single family office\"",
+    "signal": "strong: exemptive application",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Benjamin Partners LLC",
+    "cik": "0002010331",
+    "form": "40-APP",
+    "filed": "2026-06-03",
+    "accession": "0001193125-26-254741",
+    "discovered_via": "40-APP | \"single family office\"",
+    "signal": "strong: exemptive application",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Jeffrey LLC",
+    "cik": "0001668874",
+    "form": "40-APP",
+    "filed": "2016-03-11",
+    "accession": "0001193125-16-501217",
+    "discovered_via": "40-APP | \"single family office\"",
+    "signal": "strong: exemptive application",
+    "signal_priority": 3
+  },
+  {
+    "entity": "Wilshire Private Markets Family Office Fund II, L.P.",
+    "cik": "0001634667",
+    "form": "D",
+    "filed": "2015-03-03",
+    "accession": "0001634667-15-000001",
+    "discovered_via": "D | \"family office\"",
+    "signal": "weak: Form D private placement",
+    "signal_priority": 1
+  },
+  {
+    "entity": "Synapse Ventures II, LP",
+    "cik": "0001807006",
+    "form": "D",
+    "filed": "2020-03-25",
+    "accession": "0001807006-20-000001",
+    "discovered_via": "D | \"family office\"",
+    "signal": "weak: Form D private placement",
+    "signal_priority": 1
+  },
+  {
+    "entity": "Geller Multi-Vintage I, LLC",
+    "cik": "0001592557",
+    "form": "D",
+    "filed": "2014-01-15",
+    "accession": "0000919574-14-000267",
+    "discovered_via": "D | \"family office\"",
+    "signal": "weak: Form D private placement",
+    "signal_priority": 1
+  },
+  {
+    "entity": "TFO Purpose Fund, LP",
+    "cik": "0001807008",
+    "form": "D/A",
+    "filed": "2021-05-13",
+    "accession": "0001807008-21-000001",
+    "discovered_via": "D | \"family office\"",
+    "signal": "weak: Form D private placement",
+    "signal_priority": 1
+  },
+  {
+    "entity": "Geller Select Alternatives LLC",
+    "cik": "0001574527",
+    "form": "D",
+    "filed": "2013-05-13",
+    "accession": "0000919574-13-003058",
+    "discovered_via": "D | \"family office\"",
+    "signal": "weak: Form D private placement",
+    "signal_priority": 1
+  },
+  {
+    "entity": "TFO Synapse Venture Fund I, LP",
+    "cik": "0001743723",
+    "form": "D",
+    "filed": "2018-06-15",
+    "accession": "0001743723-18-000001",
+    "discovered_via": "D | \"family office\"",
+    "signal": "weak: Form D private placement",
+    "signal_priority": 1
+  },
+  {
+    "entity": "JUGGERNAUT FUND LP",
+    "cik": "0001219173",
+    "form": "D/A",
+    "filed": "2019-01-08",
+    "accession": "0001219173-19-000001",
+    "discovered_via": "D | \"family office\"",
+    "signal": "weak: Form D private placement",
+    "signal_priority": 1
+  },
+  {
+    "entity": "NO MARGIN FUND LP",
+    "cik": "0000884674",
+    "form": "D/A",
+    "filed": "2026-04-08",
+    "accession": "0000884674-26-000001",
+    "discovered_via": "D | \"family office\"",
+    "signal": "weak: Form D private placement",
+    "signal_priority": 1
+  },
+  {
+    "entity": "ECM-GF Co-Investors, LLC",
+    "cik": "0001963556",
+    "form": "D",
+    "filed": "2023-01-27",
+    "accession": "0001963556-23-000002",
+    "discovered_via": "D | \"family office\"",
+    "signal": "weak: Form D private placement",
+    "signal_priority": 1
+  },
+  {
+    "entity": "CHARTWELL FAMILY FUND LP",
+    "cik": "0001076794",
+    "form": "D/A",
+    "filed": "2017-02-24",
+    "accession": "0000935836-17-000143",
+    "discovered_via": "D | \"family office\"",
+    "signal": "weak: Form D private placement",
+    "signal_priority": 1
+  },
+  {
+    "entity": "CHURCHILL FAMILY FUND TFI LP",
+    "cik": "0001257767",
+    "form": "D/A",
+    "filed": "2009-03-06",
+    "accession": "0000935836-09-000487",
+    "discovered_via": "D | \"family office\"",
+    "signal": "weak: Form D private placement",
+    "signal_priority": 1
+  },
+  {
+    "entity": "Chartwell Family ETF Fund, L.P.",
+    "cik": "0001652422",
+    "form": "D",
+    "filed": "2015-09-10",
+    "accession": "0000935836-15-000479",
+    "discovered_via": "D | \"family office\"",
+    "signal": "weak: Form D private placement",
+    "signal_priority": 1
+  },
+  {
+    "entity": "Wilshire Private Markets Family Office Fund IV, L.P.",
+    "cik": "0001784999",
+    "form": "D",
+    "filed": "2019-08-09",
+    "accession": "0001144204-19-038891",
+    "discovered_via": "D | \"family office\"",
+    "signal": "weak: Form D private placement",
+    "signal_priority": 1
+  },
+  {
+    "entity": "Lazard Long/Short Equity Strategies LP",
+    "cik": "0001621189",
+    "form": "D/A",
+    "filed": "2024-02-12",
+    "accession": "0001621189-24-000003",
+    "discovered_via": "D | \"family office\"",
+    "signal": "weak: Form D private placement",
+    "signal_priority": 1
+  },
+  {
+    "entity": "Lazard Event Driven Strategies LP",
+    "cik": "0001621175",
+    "form": "D/A",
+    "filed": "2024-02-12",
+    "accession": "0001621175-24-000003",
+    "discovered_via": "D | \"family office\"",
+    "signal": "weak: Form D private placement",
+    "signal_priority": 1
+  },
+  {
+    "entity": "Lazard Hedge Strategies Offshore LP",
+    "cik": "0001544867",
+    "form": "D/A",
+    "filed": "2024-02-12",
+    "accession": "0001544867-24-000003",
+    "discovered_via": "D | \"family office\"",
+    "signal": "weak: Form D private placement",
+    "signal_priority": 1
+  },
+  {
+    "entity": "Lazard Emerging Market Equity Strategies LP",
+    "cik": "0001630326",
+    "form": "D/A",
+    "filed": "2024-02-12",
+    "accession": "0001630326-24-000003",
+    "discovered_via": "D | \"family office\"",
+    "signal": "weak: Form D private placement",
+    "signal_priority": 1
+  },
+  {
+    "entity": "Lazard US Equity Strategies LP",
+    "cik": "0001630327",
+    "form": "D/A",
+    "filed": "2025-02-14",
+    "accession": "0001630327-25-000001",
+    "discovered_via": "D | \"family office\"",
+    "signal": "weak: Form D private placement",
+    "signal_priority": 1
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "ein": 521425355,
+    "name": "Family Foundation",
+    "city": "Richmond",
+    "state": "VA",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 3093248,
+    "is_private_foundation": false
+  },
+  {
+    "ein": 912010505,
+    "name": "Family Foundation",
+    "city": "Longview",
+    "state": "WA",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 3031717,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 832501840,
+    "name": "Family Foundation",
+    "city": "Austin",
+    "state": "TX",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 654107,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 207550081,
+    "name": "Patterson Family Foundation",
+    "city": "Kansas City",
+    "state": "MO",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 1526002008,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 912073258,
+    "name": "Bezos Family Foundation",
+    "city": "Seattle",
+    "state": "WA",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 164546275,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 873895218,
+    "name": "Cinelli Family Foundation",
+    "city": "Lawrence",
+    "state": "KS",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 25793183,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 376714807,
+    "name": "Patterson Family Foundation",
+    "city": "Kansas City",
+    "state": "MO",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 1394530238,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 300039820,
+    "name": "Pritzker Family Foundation",
+    "city": "Chicago",
+    "state": "IL",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 148414858,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 853910161,
+    "name": "Konzen Family Foundation",
+    "city": "Issaquah",
+    "state": "WA",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 17660699,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 371887329,
+    "name": "Hunter Family Foundation",
+    "city": "Chicago",
+    "state": "IL",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 287347113,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 311256614,
+    "name": "Farmer Family Foundation",
+    "city": "Cincinnati",
+    "state": "OH",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 160988351,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 473790400,
+    "name": "Baustert Family Foundation",
+    "city": "St Paul",
+    "state": "MN",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 30728473,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 10751429,
+    "name": "Davis Family Foundation",
+    "city": "Hanover",
+    "state": "MD",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 1355021251,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 821674572,
+    "name": "Timashev Family Foundation",
+    "city": "New York",
+    "state": "NY",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 903522,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 264377643,
+    "name": "Overdeck Family Foundation",
+    "city": "New York",
+    "state": "NY",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 827142847,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 61532898,
+    "name": "Silver Family Foundation",
+    "city": "Portland",
+    "state": "OR",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 34400134,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 446006291,
+    "name": "Hall Family Foundation",
+    "city": "Kansas City",
+    "state": "MO",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 1032390741,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 266574983,
+    "name": "Offutt Family Foundation",
+    "city": "Fargo",
+    "state": "ND",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 270919249,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 47024330,
+    "name": "Adelson Family Foundation",
+    "city": "Needham",
+    "state": "MA",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 743367,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 473853918,
+    "name": "Hao Family Foundation",
+    "city": "Saratoga Spgs",
+    "state": "NY",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 188281541,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 943250195,
+    "name": "Names Family Foundation",
+    "city": "Fircrest",
+    "state": "WA",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 159866686,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 936026156,
+    "name": "Ford Family Foundation",
+    "city": "Roseburg",
+    "state": "OR",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 1125032912,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 363330462,
+    "name": "Crown Family Foundation",
+    "city": "Chicago",
+    "state": "IL",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 435506937,
+    "is_private_foundation": false
+  },
+  {
+    "ein": 413122169,
+    "name": "Jamison Family Foundation",
+    "city": "New York",
+    "state": "NY",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": null,
+    "is_private_foundation": false
+  },
+  {
+    "ein": 43105768,
+    "name": "Klarman Family Foundation",
+    "city": "Boston",
+    "state": "MA",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 744037214,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 832152945,
+    "name": "Crabill Family Foundation",
+    "city": "San Francisco",
+    "state": "CA",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 53676013,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 726022666,
+    "name": "Goldring Family Foundation",
+    "city": "Metairie",
+    "state": "LA",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 134968436,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 770348912,
+    "name": "Sobrato Family Foundation",
+    "city": "Mountain View",
+    "state": "CA",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 876730998,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 46904949,
+    "name": "Linde Family Foundation",
+    "city": "Boston",
+    "state": "MA",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 159505160,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 832183149,
+    "name": "Spaht Family Foundation",
+    "city": "San Francisco",
+    "state": "CA",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 49673493,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 931503406,
+    "name": "Wyatt Family Foundation",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 1,
+    "is_private_foundation": false
+  },
+  {
+    "ein": 137147287,
+    "name": "Karsh Family Foundation",
+    "city": "Beverly Hills",
+    "state": "CA",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 336064099,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 884360481,
+    "name": "Dunlap Family Foundation",
+    "city": "Canonsburg",
+    "state": "PA",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 143010,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 475446562,
+    "name": "Koum Family Foundation",
+    "city": "Palo Alto",
+    "state": "CA",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 2328710419,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 363486843,
+    "name": "Steans Family Foundation",
+    "city": "Chicago",
+    "state": "IL",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 295276982,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 203221183,
+    "name": "Mulva Family Foundation",
+    "city": "Austin",
+    "state": "TX",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 467771060,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 204144184,
+    "name": "Kallir Family Foundation",
+    "city": "New York",
+    "state": "NY",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 5848392,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 311550556,
+    "name": "Siemer Family Foundation",
+    "city": "Columbus",
+    "state": "OH",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 34558648,
+    "is_private_foundation": false
+  },
+  {
+    "ein": 760664404,
+    "name": "Zorich Family Foundation",
+    "city": "Houston",
+    "state": "TX",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 64591831,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 201867709,
+    "name": "Edgerley Family Foundation",
+    "city": "Overland Park",
+    "state": "KS",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 225481791,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 61157888,
+    "name": "Stanley Family Foundation",
+    "city": "Briarcliff",
+    "state": "NY",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 553981303,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 206375470,
+    "name": "Poses Family Foundation",
+    "city": "Florham Park",
+    "state": "NJ",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 629943801,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 981735754,
+    "name": "Pathy Family Foundation",
+    "city": "Canada",
+    "state": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 246738566,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 814986125,
+    "name": "Chestnut Family Foundation",
+    "city": "Atlanta",
+    "state": "GA",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 277309851,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 136223609,
+    "name": "Weill Family Foundation",
+    "city": "Albany",
+    "state": "NY",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 359486995,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 411878894,
+    "name": "Slaggie Family Foundation",
+    "city": "Winona",
+    "state": "MN",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 68530972,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 464325245,
+    "name": "Mandarich Family Foundation",
+    "city": "Denver",
+    "state": "CO",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 11845707,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 832405611,
+    "name": "Pichai Family Foundation",
+    "city": "San Francisco",
+    "state": "CA",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 171849543,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 750590214,
+    "name": "Phillips Family Foundation",
+    "city": "Houston",
+    "state": "TX",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 47121939,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 133025979,
+    "name": "Friedman Family Foundation",
+    "city": "New York",
+    "state": "NY",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 25934211,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 431800405,
+    "name": "Towle Family Foundation",
+    "city": "Greenwood Vlg",
+    "state": "CO",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 41691565,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 746108373,
+    "name": "Marek Family Foundation",
+    "city": "Houston",
+    "state": "TX",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 47095186,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 831563495,
+    "name": "Sundheim Family Foundation",
+    "city": "New York",
+    "state": "NY",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 83123072,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 205980265,
+    "name": "Yarbrough Family Foundation",
+    "city": "Franklin",
+    "state": "TN",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 28094773,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 990459316,
+    "name": "Swenson Family Foundation",
+    "city": "Wilmington",
+    "state": "DE",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": null,
+    "is_private_foundation": false
+  },
+  {
+    "ein": 363487811,
+    "name": "Zell Family Foundation",
+    "city": "Chicago",
+    "state": "IL",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 275114353,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 260474242,
+    "name": "Winiarski Family Foundation",
+    "city": "Yountville",
+    "state": "CA",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 13626602,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 202043022,
+    "name": "Tsao Family Foundation",
+    "city": "Corona Dl Mar",
+    "state": "CA",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 87539098,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 833036876,
+    "name": "Mondre Family Foundation",
+    "city": "New York",
+    "state": "NY",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 15741375,
+    "is_private_foundation": true
+  },
+  {
+    "ein": 465382571,
+    "name": "Beemok Family Foundation",
+    "city": "Charleston",
+    "state": "SC",
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "assets": 36565924,
+    "is_private_foundation": true
+  }
+]
