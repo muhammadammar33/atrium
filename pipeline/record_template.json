@@ -1,0 +1,19 @@
+{
+  "_instructions": "Copy this block into family_offices.json for each new office. Fill what you verify; leave null what you can't. Every high-value cell needs a real source. Never invent a 'verified' contact.",
+  "entity": "",
+  "fo_type": {"value": "single|multi", "source": "URL of proof (NOT the discovery source)", "confidence": "high|medium|low", "evidence": "short paraphrase of what the source says"},
+  "family": "",
+  "location": {"city": "", "state": "", "source": "", "confidence": ""},
+  "founded": {"value": null, "source": "", "confidence": ""},
+  "aum": {"value": null, "note": "e.g. 'not disclosed' or a range if sources disagree", "source": "", "confidence": ""},
+  "thesis": {"value": "", "source": "", "confidence": ""},
+  "headcount": {"value": null, "source": "", "confidence": ""},
+  "decision_makers": [
+    {"name": "", "title": "", "work_email": null, "direct_phone": null, "linkedin": null, "source": "", "confidence": ""}
+  ],
+  "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": "", "confidence": ""},
+  "identifiers": {"cik": null, "ein": null},
+  "discovered_via": "which trail surfaced it (EDGAR form X / ProPublica 990-PF)",
+  "proof_source": "the SECOND, independent source that confirmed it",
+  "record_confidence": "high|medium|low"
+}

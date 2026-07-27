@@ -1,10 +1,3 @@
-"""
-Bridge between family_offices.json and the RAG retrieval layer.
-
-Renders each structured record (with per-cell provenance) into a searchable
-text document, and turns honest blanks into explicit statements.
-"""
-
 import json
 from pathlib import Path
 
@@ -79,7 +72,6 @@ def to_document(r):
     if cbits:
         parts.append("Firm contact: " + "; ".join(cbits) + ".")
 
-    # Honest statement when individual contacts aren't public.
     if dms and all(not d.get("work_email") and not d.get("direct_phone") for d in dms):
         parts.append("Direct contact details for individual decision-makers "
                      "are not publicly available.")

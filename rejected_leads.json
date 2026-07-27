@@ -1,0 +1,184 @@
+[
+    {
+      "entity": "EMFO, LLC",
+      "verdict": "multi-family — reject",
+      "evidence": "legal name 'Emerald Multi-Family Office'; RIA serving many high-net-worth families/individuals/businesses; acquired by Corient (CI Financial) in 2024",
+      "source": "imdealsblog.sewkis.com; crunchbase.com",
+      "discovered_via": "EDGAR 13F-HR"
+    },
+    {
+      "entity": "Allié Family Office",
+      "verdict": "multi-family — reject",
+      "evidence": "serves 'high-net-worth individuals and families' (many clients); advises Single Family Offices as a service but is not itself one",
+      "source": "allie-intl.com",
+      "discovered_via": "EDGAR 13F-HR"
+    },
+    {
+      "entity": "Hall Laurie J Trustee",
+      "verdict": "not a family office — reject",
+      "evidence": "individual private-client attorney/professional trustee at Goulston & Storrs; 13F reflects client trust assets, not one family's office",
+      "source": "goulstonstorrs.com",
+      "discovered_via": "EDGAR 13F-HR"
+    },
+    {
+      "entity": "Pritzker Group",
+      "verdict": "ambiguous entity — defer",
+      "evidence": "private investment/PE firm ('invested in 100+ companies'); 'Pritzker' spans many branches/entities, not one clearly-defined single-family office; needs disambiguation before recording",
+      "source": "pritzkergroup.com",
+      "discovered_via": "ProPublica 990-PF (Pritzker Family Foundation)"
+    },
+    {
+      "entity": "Overdeck (John Overdeck)",
+      "verdict": "foundation only, SFO not confirmed — defer",
+      "evidence": "source describes the Overdeck Family Foundation (philanthropy); wealth engine is Two Sigma (a hedge fund); a distinct single-family office is not documented",
+      "source": "overdeck.org",
+      "discovered_via": "ProPublica 990-PF (Overdeck Family Foundation)"
+    },
+    {
+      "entity": "Klarman (Seth Klarman)",
+      "verdict": "foundation only, SFO not confirmed — reject",
+      "evidence": "source is the Klarman Family Foundation (philanthropy); wealth engine is Baupost Group (a hedge fund managing outside capital), not a single-family office",
+      "source": "klarmanfoundation.org",
+      "discovered_via": "ProPublica 990-PF (Klarman Family Foundation)"
+    },
+    {
+      "entity": "Steans Family Foundation",
+      "verdict": "foundation only, SFO not confirmed — reject",
+      "evidence": "source is the Steans Family Foundation (community philanthropy); family investment arm (Financial Investments Corporation) not confirmed or described here",
+      "source": "steansfamilyfoundation.org",
+      "discovered_via": "ProPublica 990-PF (Steans Family Foundation)"
+    },
+    {
+        "entity": "Crestone Asset Management LLC", 
+        "verdict": "commercial RIA — reject",
+        "evidence": "SEC-registered investment adviser (registration terminated 12/2024); serves clients for fees, not a single family",
+        "source": "adviserinfo.sec.gov",
+        "discovered_via": "EDGAR 13F-HR"
+    },
+    {
+        "entity": "Veritable, L.P.",
+        "verdict": "multi-family — reject",
+        "evidence": "self-described multi-family office; ~$17B for ~200 wealthy families; acquired by Pathstone in 2023",
+        "source": "pathstone.com; linkedin.com",
+        "discovered_via": "EDGAR 13F-HR"
+    },
+    {
+        "entity": "Dorsey & Whitney Trust Company",
+        "verdict": "not a family office — reject",
+        "evidence": "licensed commercial trust company serving many clients with fiduciary/wealth services",
+        "source": "dorseytrust.com",
+        "discovered_via": "EDGAR 13F-HR"
+   },
+   {
+        "entity": "Koum (Jan Koum)", 
+        "verdict": "foundation only, no locatable SFO — defer",
+        "evidence": "Koum Family Foundation is philanthropy; low public profile, no public website; a distinct single-family office is not locatable from public sources",
+        "source": "insidephilanthropy.com",
+        "discovered_via": "ProPublica 990-PF (Koum Family Foundation)"
+    },
+    {
+        "entity": "Patterson Family Foundation",
+        "verdict": "foundation only — reject",
+        "evidence": "rural-community grantmaking foundation (Neal & Jeanne Patterson legacy); no family office described",
+        "source": "pattersonfamilyfoundation.org",
+        "discovered_via": "ProPublica 990-PF (Patterson Family Foundation)"
+    },
+    {
+        "entity": "Davis Family Foundation",
+        "verdict": "public charity, not an office — reject",
+        "evidence": "public charitable foundation (Shaw's Supermarkets fortune) funding Maine education/medical/arts; no family office",
+        "source": "davisfoundation.org",
+        "discovered_via": "ProPublica 990-PF (Davis Family Foundation)"
+    },
+    {
+        "entity": "Phillips Foundation (phillipsfdtn.org)", 
+        "verdict": "identity unverified — defer",
+        "evidence": "page describes an impact-investing/field-building foundation but does not name the family or match the Houston 'Phillips Family Foundation' (EIN 750590214) from the lead; possible name collision",
+        "source": "phillipsfdtn.org",
+        "discovered_via": "ProPublica 990-PF (Phillips Family Foundation lead)"
+    },
+    {
+        "entity": "Friedman Family Foundation",
+        "verdict": "ambiguous entity — defer",
+        "evidence": "multiple distinct Friedman Family Foundations (San Mateo CA est. 1964; New York NY est. 1979) plus confusion with EdChoice; cannot record until EIN is disambiguated",
+        "source": "influencewatch.org; foundationcenter.org",
+        "discovered_via": "ProPublica 990-PF (Friedman Family Foundation lead)"
+    },
+    {
+        "entity": "Jeffrey Management Co.",
+        "verdict": "duplicate — skip",
+        "evidence": "same entity as The Jeffrey Company (record already in dataset); management-company name for the Jeffrey family office",
+        "source": "jeffreyco.com",
+        "discovered_via": "EDGAR 40-APP"
+    },
+    {
+        "entity": "Benjamin Partners LLC",
+        "verdict": "commercial advisory firm — reject",
+        "evidence": "boutique financial services/consulting firm serving clients (CEO Omar Covington, CFO Richard Chin); not a single family's office",
+        "source": "visualvisitor.com; zoominfo.com",
+        "discovered_via": "EDGAR 40-APP"
+    },
+    {
+        "entity": "Jeffrey LLC",
+        "verdict": "misidentified entity — reject",
+        "evidence": "resolves to Jefferies LLC (investment bank) or JeffreyGroup (marketing agency); not a family office",
+        "source": "en.wikipedia.org; brokercheck.finra.org",
+        "discovered_via": "EDGAR 40-APP"
+    },
+    {
+        "entity": "Capital Family Office",
+        "verdict": "multi-family (RIA division) — reject",
+        "evidence": "the UHNW division of Capital Investment Advisors; serves many affluent individuals/families",
+        "source": "capital family office website",
+        "discovered_via": "EDGAR 13F-HR"
+    },
+    {
+        "entity": "Stokes Family Office",
+        "verdict": "multi-family — reject",
+        "evidence": "100% family-OWNED but serves 'other families' as fiduciary clients; a multi-family office, not single-family",
+        "source": "stokes family office website",
+        "discovered_via": "EDGAR 13F-HR"
+    },
+    {
+        "entity": "Callan Family Office",
+        "verdict": "multi-family — reject",
+        "evidence": "23 partners serving UHNW families, foundations, and endowments; commercial multi-family office",
+        "source": "callan family office website",
+        "discovered_via": "EDGAR 13F-HR"
+    },
+    {
+        "entity": "Stenger Family Office",
+        "verdict": "multi-family — reject",
+        "evidence": "self-describes as a multi-family office serving families across the US; fiduciary RIA in Naperville, IL",
+        "source": "stengerfamilyoffice.com",
+        "discovered_via": "EDGAR 13F-HR"
+    },
+    {
+        "entity": "Fortitude Family Office, LLC",
+        "verdict": "multi-family (RIA) — reject",
+        "evidence": "SEC-registered multi-family office, ~$1B for HNW individuals/families, led by non-family CEO Matt Walker",
+        "source": "fortitudefo.com; radientanalytics.com",
+        "discovered_via": "EDGAR 13F-HR"
+    },
+    {
+        "entity": "The Boston Family Office",
+        "verdict": "multi-family — reject",
+        "evidence": "individually manages many client relationships; RIA custody via BNY Mellon/Fidelity, Boston MA",
+        "source": "bosfam.com",
+        "discovered_via": "EDGAR 13F-HR"
+    },
+    {
+        "entity": "Independent Family Office (IFO)",
+        "verdict": "multi-family — reject",
+        "evidence": "bespoke office serving 'select clients' and 'families across the country'; est. 2005, Albany NY",
+        "source": "ifollc.com",
+        "discovered_via": "EDGAR 13F-HR"
+    },
+    {
+        "entity": "Arrowroot Family Office",
+        "verdict": "multi-family (RIA) — reject",
+        "evidence": "fiduciary RIA providing tax/cash-flow/retirement planning to clients; founded 2013",
+        "source": "arrowrootfamilyoffice.com",
+        "discovered_via": "EDGAR 13F-HR"
+    }
+]

@@ -201,5 +201,911 @@
     "discovered_via": "ProPublica 990-PF trail (Crown Family Foundation, Chicago)",
     "proof_source": "businesswire.com / snowbrains.com (independent of the discovery source)",
     "record_confidence": "high"
+  },
+  {
+    "entity": "The Sobrato Organization (TSO)",
+    "fo_type": {
+      "value": "single",
+      "source": "sobrato.com; linkedin.com",
+      "confidence": "high",
+      "evidence": "100% owned by the Sobrato family, no institutional partners or outside investors"
+    },
+    "family": "Sobrato",
+    "location": {
+      "city": "Mountain View",
+      "state": "CA",
+      "source": "sobrato.com",
+      "confidence": "high"
+    },
+    "founded": {
+      "value": 1979,
+      "source": "en.wikipedia.org/John_A._Sobrato",
+      "confidence": "high",
+      "evidence": "family in Silicon Valley real estate since 1953; TSO formed 1979"
+    },
+    "aum": {
+      "value": null,
+      "note": "not disclosed; portfolio ~7.5M sq ft office/R&D + ~7,500 multifamily units",
+      "source": "sobrato.com",
+      "confidence": "n/a"
+    },
+    "thesis": {
+      "value": "commercial real estate (office/R&D), multifamily communities, and long-horizon direct investing via Sobrato Capital; no outside equity partners",
+      "source": "sobrato.com",
+      "confidence": "high"
+    },
+    "headcount": {
+      "value": "~70-95",
+      "source": "rocketreach.co (figures vary)",
+      "confidence": "low"
+    },
+    "decision_makers": [
+      {
+        "name": "John A. Sobrato",
+        "title": "Founder & Chairman",
+        "work_email": null,
+        "direct_phone": null,
+        "linkedin": null,
+        "source": "sobrato.com",
+        "confidence": "high"
+      },
+      {
+        "name": "John Michael Sobrato",
+        "title": "Family Principal",
+        "work_email": null,
+        "direct_phone": null,
+        "linkedin": null,
+        "source": "sobrato.com",
+        "confidence": "high"
+      },
+      {
+        "name": "Tony Mestres",
+        "title": "CEO",
+        "work_email": null,
+        "direct_phone": null,
+        "linkedin": null,
+        "source": "linkedin.com; sobrato.com",
+        "confidence": "high"
+      }
+    ],
+    "firm_contact": {
+      "website": "sobrato.com",
+      "email": null,
+      "phone": null,
+      "address": null,
+      "linkedin": "linkedin.com/company/the-sobrato-organization",
+      "source": "sobrato.com",
+      "confidence": "high"
+    },
+    "identifiers": {
+      "cik": null,
+      "ein": null
+    },
+    "discovered_via": "ProPublica 990-PF trail (Sobrato Family Foundation, Mountain View)",
+    "proof_source": "sobrato.com / en.wikipedia.org (independent of discovery source)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Chai Trust Company (Zell Family Office)",
+    "fo_type": {"value": "single", "source": "chaitrust.com", "confidence": "high", "evidence": "private trust company for the Zell family; houses the Zell Family Office"},
+    "family": "Zell",
+    "location": {"city": "Chicago", "state": "IL", "source": "chaitrust.com", "confidence": "medium"},
+    "founded": {"value": null, "source": null, "confidence": "n/a"},
+    "aum": {"value": null, "note": "not disclosed", "source": null, "confidence": "n/a"},
+    "thesis": {"value": "private trust company for the Zell family; direct investing via Equity Group Investments (EGI) plus family-office services via the Zell Family Office (ZFO)", "source": "chaitrust.com", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [],
+    "firm_contact": {"website": "chaitrust.com", "email": null, "phone": null, "address": null, "linkedin": null, "source": "chaitrust.com", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": null},
+    "discovered_via": "ProPublica 990-PF trail (Zell Family Foundation)",
+    "proof_source": "chaitrust.com (independent of discovery source)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Karsh Family Office",
+    "fo_type": {"value": "single", "source": "propublica.org; oaktreecapital.com", "confidence": "low", "evidence": "family office tied to Bruce & Martha Karsh; distinct operating entity not clearly documented separate from the family foundation"},
+    "family": "Karsh",
+    "location": {"city": "Los Angeles", "state": "CA", "source": "karshcenter.org", "confidence": "low"},
+    "aum": {"value": null, "note": "not disclosed", "source": null, "confidence": "n/a"},
+    "thesis": {"value": "private/alternative market investments and venture co-investments; large-scale philanthropy (higher ed, civic education)", "source": "insidephilanthropy.com", "confidence": "medium"},
+    "decision_makers": [{"name": "Bruce Karsh", "title": "Principal (co-founder/CIO of Oaktree Capital)", "work_email": null, "direct_phone": null, "linkedin": null, "source": "oaktreecapital.com", "confidence": "medium"},
+                         {"name": "Martha Karsh", "title": "Principal", "work_email": null, "direct_phone": null, "linkedin": null, "source": "insidephilanthropy.com", "confidence": "medium"}],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": "137147287"},
+    "discovered_via": "ProPublica 990-PF trail (Karsh Family Foundation)",
+    "proof_source": "oaktreecapital.com / insidephilanthropy.com",
+    "record_confidence": "low"
+  },
+  {
+    "entity": "The Ford Family Foundation",
+    "fo_type": {"value": "single", "source": "tfff.org", "confidence": "high", "evidence": "private foundation of the Ford family (Kenneth W. Ford, Roseburg Forest Products); rural Oregon philanthropy"},
+    "family": "Ford",
+    "location": {"city": "Roseburg", "state": "OR", "source": "tfff.org", "confidence": "high"},
+    "founded": {"value": null, "note": "see tfff.org/about/roots", "source": null, "confidence": "n/a"},
+    "aum": {"value": "~$1.1B", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "rural philanthropy — grants, scholarships, and community building for rural Oregon and Siskiyou County, CA; early childhood, education, community capacity", "source": "tfff.org", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [],
+    "firm_contact": {"website": "tfff.org", "email": null, "phone": null, "address": null, "linkedin": null, "source": "tfff.org", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": "936026156"},
+    "discovered_via": "ProPublica 990-PF trail (Ford Family Foundation)",
+    "proof_source": "tfff.org (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Hall Family Foundation",
+    "fo_type": {"value": "single", "source": "hallfamilyfoundation.org", "confidence": "high", "evidence": "private philanthropic foundation of the Hall family (Hallmark Cards), Greater Kansas City"},
+    "family": "Hall",
+    "location": {"city": "Kansas City", "state": "MO", "source": "hallfamilyfoundation.org", "confidence": "high"},
+    "founded": {"value": null, "source": null, "confidence": "n/a"},
+    "aum": {"value": "~$1.03B", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "Greater Kansas City philanthropy — community quality of life, systemic solutions to community needs, education and civic initiatives", "source": "hallfamilyfoundation.org", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [],
+    "firm_contact": {"website": "hallfamilyfoundation.org", "email": null, "phone": null, "address": null, "linkedin": null, "source": "hallfamilyfoundation.org", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": "446006291"},
+    "discovered_via": "ProPublica 990-PF trail (Hall Family Foundation)",
+    "proof_source": "hallfamilyfoundation.org (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Poses Family Foundation",
+    "fo_type": {"value": "single", "source": "insidephilanthropy.com; linkedin.com", "confidence": "high", "evidence": "private family foundation established 2004 by Nancy and Fred Poses"},
+    "family": "Poses",
+    "location": {"city": "Florham Park", "state": "NJ", "source": "ProPublica 990-PF", "confidence": "medium"},
+    "founded": {"value": 2004, "source": "insidephilanthropy.com", "confidence": "high"},
+    "aum": {"value": "~$730M", "source": "philanthropy.org 990", "confidence": "high"},
+    "thesis": {"value": "learning and thinking differences (learning disabilities), K-12 education, human services, mental health, and the arts; combines grants with operational capacity-building", "source": "insidephilanthropy.com; zeroproject.org", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Nancy Poses", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "linkedin.com", "confidence": "high"},
+      {"name": "Fred Poses", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "linkedin.com", "confidence": "high"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": "linkedin.com/company/poses-family-foundation", "source": "linkedin.com", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": "206375470"},
+    "discovered_via": "ProPublica 990-PF trail (Poses Family Foundation)",
+    "proof_source": "insidephilanthropy.com (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Stanley Family Foundation",
+    "fo_type": {"value": "single", "source": "broadinstitute.org; insidephilanthropy.com", "confidence": "high", "evidence": "private foundation established 1985 by Ted and Vada Stanley"},
+    "family": "Stanley",
+    "location": {"city": "Briarcliff Manor", "state": "NY", "source": "ProPublica 990-PF", "confidence": "medium"},
+    "founded": {"value": 1985, "source": "broadinstitute.org", "confidence": "high"},
+    "aum": {"value": "~$554M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "psychiatric research — concentrated, invitation-only giving to human genetics, neurobiology, and computational research on schizophrenia and bipolar disorder, chiefly via the Stanley Center at the Broad Institute", "source": "broadinstitute.org", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": "61157888"},
+    "discovered_via": "ProPublica 990-PF trail (Stanley Family Foundation)",
+    "proof_source": "broadinstitute.org (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Overdeck Family Foundation",
+    "fo_type": {"value": "single", "source": "overdeck.org", "confidence": "high", "evidence": "private family foundation founded 2011 by John & Laura Overdeck (John Overdeck co-founded Two Sigma)"},
+    "family": "Overdeck",
+    "location": {"city": "New York", "state": "NY", "source": "overdeck.org; ProPublica 990-PF", "confidence": "high"},
+    "founded": {"value": 2011, "source": "overdeck.org", "confidence": "high"},
+    "aum": {"value": "~$827M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "education philanthropy — school readiness, school success, and future readiness; funds both bold ideas and proven, evidence-based solutions", "source": "overdeck.org", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "John Overdeck", "title": "Chair & Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "overdeck.org", "confidence": "high"},
+      {"name": "Daniel Overdeck", "title": "Director", "work_email": null, "direct_phone": null, "linkedin": null, "source": "overdeck.org", "confidence": "medium"}
+    ],
+    "firm_contact": {"website": "overdeck.org", "email": null, "phone": null, "address": null, "linkedin": null, "source": "overdeck.org", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": "264377643"},
+    "discovered_via": "ProPublica 990-PF trail (Overdeck Family Foundation)",
+    "proof_source": "overdeck.org (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Hunter Family Foundation",
+    "fo_type": {"value": "single", "source": "hunterfamilyfoundation.org", "confidence": "high", "evidence": "private family foundation founded 1993 by Maxine Morrison Hunter and Thomas Benton Hunter III"},
+    "family": "Hunter",
+    "location": {"city": "Chicago", "state": "IL", "source": "ProPublica 990-PF", "confidence": "medium"},
+    "founded": {"value": 1993, "source": "hunterfamilyfoundation.org", "confidence": "high"},
+    "aum": {"value": "~$287M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "family-centered philanthropy across learn/play/grow — early childhood and K-12 education, environmental stewardship and access to nature, community-based healthcare and food security; trust-based philanthropy", "source": "hunterfamilyfoundation.org", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Maxine Morrison Hunter", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "hunterfamilyfoundation.org", "confidence": "high"},
+      {"name": "Thomas Benton Hunter III", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "hunterfamilyfoundation.org", "confidence": "high"}
+    ],
+    "firm_contact": {"website": "hunterfamilyfoundation.org", "email": null, "phone": null, "address": null, "linkedin": null, "source": "hunterfamilyfoundation.org", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": "371887329"},
+    "discovered_via": "ProPublica 990-PF trail (Hunter Family Foundation)",
+    "proof_source": "hunterfamilyfoundation.org (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Mulva Family Foundation",
+    "fo_type": {"value": "single", "source": "hinchilla.com; propublica.org", "confidence": "high", "evidence": "private family foundation established 2005 by James J. Mulva (ex-ConocoPhillips CEO) and Miriam B. Mulva"},
+    "family": "Mulva",
+    "location": {"city": "Austin", "state": "TX", "source": "propublica.org", "confidence": "high"},
+    "founded": {"value": 2005, "source": "hinchilla.com", "confidence": "high"},
+    "aum": {"value": "~$468M", "source": "ProPublica 990-PF", "confidence": "high", "note": "one source cites >$541M; recorded conservatively from 990"},
+    "thesis": {"value": "medicine and healthcare, higher education (UT Austin), youth programs, and the Catholic Church; transformational multi-year capital pledges, trustee-directed", "source": "hinchilla.com; dellmed.utexas.edu", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "James J. Mulva", "title": "Co-Founder / Trustee", "work_email": null, "direct_phone": null, "linkedin": null, "source": "hinchilla.com", "confidence": "high"},
+      {"name": "Miriam B. Mulva", "title": "Co-Founder / Trustee", "work_email": null, "direct_phone": null, "linkedin": null, "source": "hinchilla.com", "confidence": "high"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": "203221183"},
+    "discovered_via": "ProPublica 990-PF trail (Mulva Family Foundation)",
+    "proof_source": "dellmed.utexas.edu; hinchilla.com (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Weill Family Foundation",
+    "fo_type": {"value": "single", "source": "forbes.com; hinchilla.com", "confidence": "high", "evidence": "private philanthropic foundation established 1967 by Sanford 'Sandy' Weill (ex-Citigroup CEO) and Joan Weill"},
+    "family": "Weill",
+    "location": {"city": "Albany", "state": "NY", "source": "ProPublica 990-PF", "confidence": "medium"},
+    "founded": {"value": 1967, "source": "hinchilla.com", "confidence": "high"},
+    "aum": {"value": "~$359M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "medical and scientific research hubs (Weill Neurohub, Weill Cancer Hub), veterinary medicine (UC Davis), higher education, and debt-free medical education", "source": "forbes.com; cnbc.com", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Sanford I. Weill", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "forbes.com", "confidence": "high"},
+      {"name": "Joan Weill", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "forbes.com", "confidence": "high"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": "136223609"},
+    "discovered_via": "ProPublica 990-PF trail (Weill Family Foundation)",
+    "proof_source": "forbes.com; cnbc.com (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Offutt Family Foundation",
+    "fo_type": {"value": "single", "source": "rdoffuttfarms.com; charitynavigator.org", "confidence": "high", "evidence": "private family foundation founded by Ronald D. Offutt (R.D. Offutt Company / RDO Equipment Co.)"},
+    "family": "Offutt",
+    "location": {"city": "Fargo", "state": "ND", "source": "charitynavigator.org", "confidence": "high"},
+    "founded": {"value": null, "source": null, "confidence": "n/a"},
+    "aum": {"value": "~$271M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "place-based giving across the RDO operating footprint (North Dakota, NW Minnesota) — education, healthcare (Mayo Clinic), community quality of life, veterans; employee-nominated Community Builder grants", "source": "rdoffuttfarms.com; rdoequipment.com", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Ronald D. Offutt", "title": "Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "rdoffuttfarms.com", "confidence": "high"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": "linkedin.com/company/offutt-family-foundation", "source": "linkedin.com", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": "266574983"},
+    "discovered_via": "ProPublica 990-PF trail (Offutt Family Foundation)",
+    "proof_source": "rdoffuttfarms.com; charitynavigator.org (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Chestnut Family Foundation",
+    "fo_type": {"value": "single", "source": "chestnutfamilyfoundation.org", "confidence": "high", "evidence": "started 2017 by Teresa and Ben Chestnut (Ben co-founded Mailchimp)"},
+    "family": "Chestnut",
+    "location": {"city": "Atlanta", "state": "GA", "source": "ProPublica 990-PF", "confidence": "high"},
+    "founded": {"value": 2017, "source": "chestnutfamilyfoundation.org", "confidence": "high"},
+    "aum": {"value": "~$277M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "improving the lives of children in Georgia; funds small/medium organizations with deep community knowledge, dynamic leadership, and an entrepreneurial, access-oriented approach", "source": "chestnutfamilyfoundation.org", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Ben Chestnut", "title": "Co-Founder (Mailchimp co-founder)", "work_email": null, "direct_phone": null, "linkedin": null, "source": "chestnutfamilyfoundation.org", "confidence": "high"},
+      {"name": "Teresa Chestnut", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "chestnutfamilyfoundation.org", "confidence": "high"}
+    ],
+    "firm_contact": {"website": "chestnutfamilyfoundation.org", "email": null, "phone": null, "address": null, "linkedin": null, "source": "chestnutfamilyfoundation.org", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": "814986125"},
+    "discovered_via": "ProPublica 990-PF trail (Chestnut Family Foundation)",
+    "proof_source": "chestnutfamilyfoundation.org (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Pathy Family Foundation",
+    "fo_type": {"value": "single", "source": "ProPublica 990-PF; foundation website", "confidence": "medium", "evidence": "private family foundation supporting communities in Canada and around the world"},
+    "family": "Pathy",
+    "location": {"city": "Montreal", "state": "QC", "source": "ProPublica 990-PF", "confidence": "medium"},
+    "founded": {"value": null, "source": null, "confidence": "n/a"},
+    "aum": {"value": "~$247M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "advancing dignity, rights, and empowerment of communities in Canada and globally; genuine partnership, collaboration, and support for community-led social change", "source": "foundation website", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": "981735754"},
+    "_country": "Canada",
+    "discovered_via": "ProPublica 990-PF trail (Pathy Family Foundation)",
+    "proof_source": "foundation website (independent of discovery)",
+    "record_confidence": "medium"
+  },
+  {
+    "entity": "Edgerley Family Foundation",
+    "fo_type": {"value": "single", "source": "hinchilla.com; propublica.org", "confidence": "high", "evidence": "private grantmaking foundation established 2004 by Paul and Sandra Edgerley"},
+    "family": "Edgerley",
+    "location": {"city": "Boston", "state": "MA", "source": "ProPublica 990-PF", "confidence": "medium"},
+    "founded": {"value": 2004, "source": "hinchilla.com", "confidence": "high"},
+    "aum": {"value": "~$239M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "education and leadership, youth opportunity, community health, and homeless/social services, focused on Massachusetts and New England; relationship-driven, no public applications", "source": "zeffy.com; hinchilla.com", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Paul Edgerley", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "hinchilla.com", "confidence": "high"},
+      {"name": "Sandra Edgerley", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "hinchilla.com", "confidence": "high"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": "201867709"},
+    "discovered_via": "ProPublica 990-PF trail (Edgerley Family Foundation)",
+    "proof_source": "hinchilla.com; zeffy.com (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Hao Family Foundation",
+    "fo_type": {"value": "single", "source": "altss.com", "confidence": "low", "evidence": "private grantmaking foundation (EIN 473853918); NOTE: name easily confused with Huo Family Foundation and Hao-Fountain Syndrome nonprofit — verify identity before relying on this record"},
+    "family": "Hao",
+    "location": {"city": "Saratoga Springs", "state": "NY", "source": "ProPublica 990-PF", "confidence": "low"},
+    "founded": {"value": 2017, "source": "altss.com", "confidence": "medium"},
+    "aum": {"value": "~$188M-$304M", "note": "sources disagree; recorded as range pending verification", "source": "ProPublica 990-PF; altss.com", "confidence": "low"},
+    "thesis": {"value": "impact-oriented grantmaking; funding directed toward community and impact investment portfolios (e.g., Turner Impact Capital)", "source": "altss.com", "confidence": "low"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": "473853918"},
+    "discovered_via": "ProPublica 990-PF trail (Hao Family Foundation)",
+    "proof_source": "altss.com (independent of discovery)",
+    "record_confidence": "low"
+  },
+  {
+    "entity": "Pichai Family Foundation",
+    "fo_type": {"value": "single", "source": "hinchilla.com; causeiq.com", "confidence": "high", "evidence": "private charitable foundation founded by Sundar Pichai (Alphabet/Google CEO) and Anjali Pichai"},
+    "family": "Pichai",
+    "location": {"city": "San Francisco", "state": "CA", "source": "causeiq.com", "confidence": "high"},
+    "founded": {"value": null, "source": null, "confidence": "n/a"},
+    "aum": {"value": "~$172M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "education, technology and STEM initiatives, and community development; operates as a private foundation without a public application process", "source": "hinchilla.com; causeiq.com", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Sundar Pichai", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "hinchilla.com", "confidence": "high"},
+      {"name": "Anjali Pichai", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "hinchilla.com", "confidence": "high"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": "832405611"},
+    "discovered_via": "ProPublica 990-PF trail (Pichai Family Foundation)",
+    "proof_source": "hinchilla.com; causeiq.com (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Farmer Family Foundation",
+    "fo_type": {"value": "single", "source": "farmerfamilyfoundation.com", "confidence": "high", "evidence": "charitable family foundation serving families and communities in West Virginia and SW Pennsylvania"},
+    "family": "Farmer",
+    "location": {"city": "Cincinnati", "state": "OH", "source": "ProPublica 990-PF", "confidence": "medium", "note": "operations focus WV/SW PA; verify HQ city"},
+    "founded": {"value": null, "source": null, "confidence": "n/a"},
+    "aum": {"value": "~$161M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "raising funds for families and communities in need across West Virginia and Southwestern Pennsylvania; annual charity golf fundraiser", "source": "farmerfamilyfoundation.com", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [],
+    "firm_contact": {"website": "farmerfamilyfoundation.com", "email": null, "phone": null, "address": null, "linkedin": null, "source": "farmerfamilyfoundation.com", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": "311256614"},
+    "discovered_via": "ProPublica 990-PF trail (Farmer Family Foundation)",
+    "proof_source": "farmerfamilyfoundation.com (independent of discovery)",
+    "record_confidence": "medium"
+  },
+  {
+    "entity": "Names Family Foundation",
+    "fo_type": {"value": "single", "source": "namesfamilyfoundation.org", "confidence": "high", "evidence": "founded 1996 by Scott and Evelyn 'Sis' Names (founders of Scott's Athletic Equipment)"},
+    "family": "Names",
+    "location": {"city": "Fircrest", "state": "WA", "source": "ProPublica 990-PF", "confidence": "high"},
+    "founded": {"value": 1996, "source": "namesfamilyfoundation.org", "confidence": "high"},
+    "aum": {"value": "~$160M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "supporting nonprofits focused on wellness, sports, and physical fitness, primarily in Pierce County / Puget Sound, Washington", "source": "namesfamilyfoundation.org", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [],
+    "firm_contact": {"website": "namesfamilyfoundation.org", "email": null, "phone": null, "address": null, "linkedin": null, "source": "namesfamilyfoundation.org", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": "943250195"},
+    "discovered_via": "ProPublica 990-PF trail (Names Family Foundation)",
+    "proof_source": "namesfamilyfoundation.org (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Bezos Expeditions",
+    "fo_type": {"value": "single", "source": "andsimple.co; eagle-private.com", "confidence": "high", "evidence": "Jeff Bezos's private single-family office (distinct from the Bezos Family Foundation run by his parents)"},
+    "family": "Bezos",
+    "location": {"city": "Mercer Island", "state": "WA", "source": "andsimple.co", "confidence": "medium"},
+    "founded": {"value": 2005, "source": "andsimple.co", "confidence": "high"},
+    "aum": {"value": "~$100B-$200B", "note": "press estimates vary widely", "source": "caproasia.com; andsimple.co", "confidence": "low"},
+    "thesis": {"value": "venture capital, private equity, and direct personal investments — disruptive technology, aerospace (Blue Origin), and media (The Washington Post)", "source": "andsimple.co; eagle-private.com", "confidence": "high"},
+    "headcount": {"value": "~150+", "source": "andsimple.co", "confidence": "medium"},
+    "decision_makers": [
+      {"name": "Melinda Lewison", "title": "Managing Director", "work_email": null, "direct_phone": null, "linkedin": null, "source": "andsimple.co", "confidence": "medium"},
+      {"name": "Jeff Bezos", "title": "Principal", "work_email": null, "direct_phone": null, "linkedin": null, "source": "andsimple.co", "confidence": "high"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": null},
+    "discovered_via": "ProPublica 990-PF trail (Bezos Family Foundation) -> led to the separate single-family office",
+    "proof_source": "andsimple.co; eagle-private.com (independent of discovery)",
+    "record_confidence": "medium"
+  },
+  {
+    "entity": "Linde Family Foundation",
+    "fo_type": {"value": "single", "source": "hinchilla.com; insidephilanthropy.com", "confidence": "high", "evidence": "private grantmaking foundation established 2000 by Edward H. and Joyce Linde (Boston Properties co-founder)"},
+    "family": "Linde",
+    "location": {"city": "Boston", "state": "MA", "source": "instrumentl.com", "confidence": "high"},
+    "founded": {"value": 2000, "source": "hinchilla.com", "confidence": "high"},
+    "aum": {"value": "~$214M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "arts, education, youth/children's services, and medical research in greater Boston (Dana-Farber, Tanglewood, MFA, Beth Israel Deaconess); no public application process", "source": "hinchilla.com; insidephilanthropy.com", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Joyce Linde", "title": "Co-Founder / Trustee", "work_email": null, "direct_phone": null, "linkedin": null, "source": "hinchilla.com", "confidence": "high"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": "046904949"},
+    "discovered_via": "ProPublica 990-PF trail (Linde Family Foundation)",
+    "proof_source": "hinchilla.com; insidephilanthropy.com (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Pritzker Family Foundation (J.B. & M.K. Pritzker)",
+    "fo_type": {"value": "single", "source": "pritzkerchildrensinitiative.org", "confidence": "medium", "evidence": "the J.B. and M.K. Pritzker branch foundation, founded 2001; NOTE: 'Pritzker Family Foundation' spans multiple independent branch entities — this record is one specific branch"},
+    "family": "Pritzker (J.B. & M.K. branch)",
+    "location": {"city": "Chicago", "state": "IL", "source": "ProPublica 990-PF", "confidence": "medium"},
+    "founded": {"value": 2001, "source": "pritzkerchildrensinitiative.org", "confidence": "high"},
+    "aum": {"value": "~$148M", "source": "ProPublica 990-PF", "confidence": "medium", "note": "EIN/branch mapping should be verified given multiple Pritzker entities"},
+    "thesis": {"value": "social and economic justice, equity, and early childhood development (prenatal to age three) via the Pritzker Children's Initiative", "source": "pritzkerchildrensinitiative.org", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "J.B. Pritzker", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "pritzkerchildrensinitiative.org", "confidence": "medium"},
+      {"name": "M.K. Pritzker", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "pritzkerchildrensinitiative.org", "confidence": "medium"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": null},
+    "discovered_via": "ProPublica 990-PF trail (Pritzker Family Foundation)",
+    "proof_source": "pritzkerchildrensinitiative.org (independent of discovery)",
+    "record_confidence": "medium"
+  },
+  {
+    "entity": "Sundheim Family Foundation",
+    "fo_type": {"value": "single", "source": "forbes.com; instrumentl.com", "confidence": "high", "evidence": "private foundation established and managed by Daniel Sundheim (D1 Capital Partners) and Brett Sundheim"},
+    "family": "Sundheim",
+    "location": {"city": "New York", "state": "NY", "source": "propublica.org", "confidence": "high"},
+    "founded": {"value": null, "source": null, "confidence": "n/a"},
+    "aum": {"value": "~$104M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "higher-education student aid, medical research (type 1 diabetes), and contemporary art; major gifts to UPenn and the Diabetes Research Institute", "source": "almanac.upenn.edu; diabetesresearch.org", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Daniel Sundheim", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "forbes.com", "confidence": "high"},
+      {"name": "Brett Sundheim", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "instrumentl.com", "confidence": "high"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": "C/O Sunny Cap Management, 9 W 57th St, New York, NY", "linkedin": null, "source": "propublica.org 990-PF", "confidence": "medium"},
+    "identifiers": {"cik": null, "ein": "831563495"},
+    "discovered_via": "ProPublica 990-PF trail (Sundheim Family Foundation)",
+    "proof_source": "forbes.com; almanac.upenn.edu (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Goldring Family Foundation",
+    "fo_type": {"value": "single", "source": "goldring/woldenberg foundation materials", "confidence": "medium", "evidence": "Goldring & Woldenberg family foundations (Sazerac / New Orleans); funds Greater New Orleans nonprofits"},
+    "family": "Goldring",
+    "location": {"city": "Metairie", "state": "LA", "source": "ProPublica 990-PF", "confidence": "high"},
+    "founded": {"value": null, "source": null, "confidence": "n/a"},
+    "aum": {"value": "~$135M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "Greater New Orleans philanthropy — animals & environment, arts & culture, civic affairs, education/opportunities for children, human services, health, and Jewish causes", "source": "foundation materials", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": "726022666"},
+    "discovered_via": "ProPublica 990-PF trail (Goldring Family Foundation)",
+    "proof_source": "foundation materials (independent of discovery)",
+    "record_confidence": "medium"
+  },
+  {
+    "entity": "Tsao Foundation",
+    "fo_type": {"value": "single", "source": "tsaofoundation.org", "confidence": "high", "evidence": "established by Mrs Tsao Ng Yu Shun in honour of her father and father-in-law; led by granddaughter Dr Mary Ann Tsao"},
+    "family": "Tsao",
+    "location": {"city": "Singapore", "state": null, "source": "tsaofoundation.org", "confidence": "high"},
+    "founded": {"value": null, "note": "founder established it at age 86; exact year unverified", "source": "tsaofoundation.org", "confidence": "low"},
+    "aum": {"value": "~$88M", "source": "ProPublica 990-PF (US-listed lead)", "confidence": "low", "note": "AUM came from a US 990-PF lead; the entity described here is the Singapore Tsao Foundation — VERIFY these are the same entity before relying on this figure"},
+    "thesis": {"value": "enhancing quality of life for older persons; community-based eldercare, health and social services (Hua Mei), ageing-in-place and self-determination for seniors", "source": "tsaofoundation.org", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Dr Mary Ann Tsao", "title": "Chairman / Founding Director", "work_email": null, "direct_phone": null, "linkedin": null, "source": "tsaofoundation.org", "confidence": "high"}
+    ],
+    "firm_contact": {"website": "tsaofoundation.org", "email": null, "phone": null, "address": null, "linkedin": null, "source": "tsaofoundation.org", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": "202043022"},
+    "_country": "Singapore",
+    "discovered_via": "ProPublica 990-PF trail (Tsao Family Foundation, listed CA)",
+    "proof_source": "tsaofoundation.org (independent of discovery)",
+    "record_confidence": "low"
+  },
+  {
+    "entity": "Slaggie Family Foundation",
+    "fo_type": {"value": "single", "source": "instrumentl.com; smumn.edu", "confidence": "high", "evidence": "private foundation established and led by Stephen and Barbara Slaggie"},
+    "family": "Slaggie",
+    "location": {"city": "Winona", "state": "MN", "source": "instrumentl.com", "confidence": "high"},
+    "founded": {"value": null, "source": null, "confidence": "n/a"},
+    "aum": {"value": "~$69M", "source": "ProPublica 990-PF", "confidence": "high", "note": "one source cites >$101M; recorded from 990"},
+    "thesis": {"value": "education (Catholic schools, Saint Mary's University of MN), healthcare (Mayo Clinic), human services, and community arts", "source": "smumn.edu; mayomagazine.mayoclinic.org", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Stephen Slaggie", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "instrumentl.com", "confidence": "high"},
+      {"name": "Barbara Slaggie", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "instrumentl.com", "confidence": "high"}
+    ],
+    "firm_contact": {"website": null, "email": "sff@hbci.com", "phone": "(507) 474-9150", "address": null, "linkedin": null, "source": "grantmakers.io", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": "411878894"},
+    "discovered_via": "ProPublica 990-PF trail (Slaggie Family Foundation)",
+    "proof_source": "smumn.edu; grantmakers.io (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Zorich Family Foundation",
+    "fo_type": {"value": "single", "source": "hinchilla.com; instrumentl.com", "confidence": "high", "evidence": "private charitable foundation established 2000 by Robert L. and Barbara Zorich"},
+    "family": "Zorich",
+    "location": {"city": "Houston", "state": "TX", "source": "hinchilla.com", "confidence": "high"},
+    "founded": {"value": 2000, "source": "hinchilla.com", "confidence": "high"},
+    "aum": {"value": "~$65M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "higher education and energy research, Christian/Protestant organizations, healthcare, and student entrepreneurship awards", "source": "hinchilla.com; lifestylesmagazine.com", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Robert L. Zorich", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "hinchilla.com", "confidence": "high"},
+      {"name": "Barbara Zorich", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "hinchilla.com", "confidence": "high"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": "760664404"},
+    "discovered_via": "ProPublica 990-PF trail (Zorich Family Foundation)",
+    "proof_source": "hinchilla.com; lifestylesmagazine.com (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Crabill Family Foundation",
+    "fo_type": {"value": "single", "source": "crabillfamilyfoundation.org", "confidence": "high", "evidence": "founded late 2018 by Angela and Scott Crabill"},
+    "family": "Crabill",
+    "location": {"city": "San Francisco", "state": "CA", "source": "ProPublica 990-PF", "confidence": "medium", "note": "also active in Springfield, OH"},
+    "founded": {"value": 2018, "source": "crabillfamilyfoundation.org", "confidence": "high"},
+    "aum": {"value": "~$54M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "access to healthcare, education, housing, and arts, focused on Springfield, OH and San Francisco, CA; strategy still developing", "source": "crabillfamilyfoundation.org", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Scott Crabill", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "crabillfamilyfoundation.org", "confidence": "high"},
+      {"name": "Angela Crabill", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "crabillfamilyfoundation.org", "confidence": "high"}
+    ],
+    "firm_contact": {"website": "crabillfamilyfoundation.org", "email": "hello@crabillfamilyfoundation.org", "phone": null, "address": null, "linkedin": null, "source": "crabillfamilyfoundation.org", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": "464325245"},
+    "discovered_via": "ProPublica 990-PF trail (Crabill Family Foundation)",
+    "proof_source": "crabillfamilyfoundation.org (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Marek Family Foundation",
+    "fo_type": {"value": "single", "source": "instrumentl.com; osvnews.com", "confidence": "high", "evidence": "private foundation tied to the Marek family (MAREK Family of Companies, Houston)"},
+    "family": "Marek",
+    "location": {"city": "Houston", "state": "TX", "source": "propublica.org", "confidence": "high"},
+    "founded": {"value": null, "source": null, "confidence": "n/a"},
+    "aum": {"value": "~$47M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "education, human services, and community/religious (Catholic) programs, largely in Texas", "source": "osvnews.com; instrumentl.com", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Stan Marek", "title": "Family Principal (MAREK)", "work_email": null, "direct_phone": null, "linkedin": null, "source": "supportstlukes.org", "confidence": "medium"}
+    ],
+    "firm_contact": {"website": "marekfoundation.org", "email": null, "phone": null, "address": null, "linkedin": null, "source": "marekfoundation.org", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": "746108373"},
+    "discovered_via": "ProPublica 990-PF trail (Marek Family Foundation)",
+    "proof_source": "osvnews.com; supportstlukes.org (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Spaht Family Foundation",
+    "fo_type": {"value": "single", "source": "spaht foundation materials", "confidence": "high", "evidence": "founded 2019 by Holden and Claire Spaht"},
+    "family": "Spaht",
+    "location": {"city": "San Francisco", "state": "CA", "source": "ProPublica 990-PF", "confidence": "high"},
+    "founded": {"value": 2019, "source": "foundation materials", "confidence": "high"},
+    "aum": {"value": "~$49.7M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "climate, mental health, and the arts; long-term US impact via grants and field-building (e.g., Lindley Center for Student Wellness at W&L; SMU Meadows School of the Arts)", "source": "foundation materials", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Holden Spaht", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "foundation materials", "confidence": "high"},
+      {"name": "Claire Spaht", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "foundation materials", "confidence": "high"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": "832183149"},
+    "discovered_via": "ProPublica 990-PF trail (Spaht Family Foundation)",
+    "proof_source": "foundation materials (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Towle Family Foundation",
+    "fo_type": {"value": "single", "source": "hinchilla.com; causeiq.com", "confidence": "high", "evidence": "private family foundation led by Christopher D., Perry E., and Laura H. Towle"},
+    "family": "Towle",
+    "location": {"city": "Greenwood Village", "state": "CO", "source": "ProPublica 990-PF", "confidence": "medium", "note": "grantmaking active in St. Louis (City Academy); verify HQ"},
+    "founded": {"value": null, "source": null, "confidence": "n/a"},
+    "aum": {"value": "~$42M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "endowments, scholarships, and educational/community outreach; relationship-driven, no public application process", "source": "hinchilla.com; cityacademystl.org", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Christopher D. Towle", "title": "Officer", "work_email": null, "direct_phone": null, "linkedin": null, "source": "causeiq.com", "confidence": "high"},
+      {"name": "Perry E. Towle", "title": "Officer", "work_email": null, "direct_phone": null, "linkedin": null, "source": "causeiq.com", "confidence": "high"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": "431800405"},
+    "discovered_via": "ProPublica 990-PF trail (Towle Family Foundation)",
+    "proof_source": "causeiq.com; cityacademystl.org (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Beemok Family Foundation",
+    "fo_type": {"value": "single", "source": "beemok.com; en.wikipedia.org", "confidence": "high", "evidence": "private foundation founded by Ben Navarro and family (Beemok/Sherman Financial), Charleston"},
+    "family": "Navarro (Beemok)",
+    "location": {"city": "Charleston", "state": "SC", "source": "instrumentl.com", "confidence": "high"},
+    "founded": {"value": null, "source": null, "confidence": "n/a"},
+    "aum": {"value": "~$37M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "education and early childhood, community development, and civic projects in the Charleston area; Meeting Street Scholarship Fund", "source": "beemok.com; meetingstreetscholarshipfund.org", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Ben Navarro", "title": "Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "beemok.com", "confidence": "high"}
+    ],
+    "firm_contact": {"website": "beemok.com", "email": null, "phone": null, "address": null, "linkedin": null, "source": "beemok.com", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": "465382571"},
+    "discovered_via": "ProPublica 990-PF trail (Beemok Family Foundation)",
+    "proof_source": "beemok.com; en.wikipedia.org (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Silver Family Foundation (Portland, OR)",
+    "fo_type": {"value": "single", "source": "silverfoundation.org", "confidence": "medium", "evidence": "private grantmaking foundation, Portland OR; NOTE: similarly named entities exist in NJ and MD — verify EIN maps to the Portland entity"},
+    "family": "Silver",
+    "location": {"city": "Portland", "state": "OR", "source": "silverfoundation.org", "confidence": "high"},
+    "founded": {"value": null, "source": null, "confidence": "n/a"},
+    "aum": {"value": "~$34M", "source": "ProPublica 990-PF", "confidence": "medium"},
+    "thesis": {"value": "youth development, college preparation, retention, and mentoring for underserved youth across Oregon, Washington, and Idaho", "source": "silverfoundation.org; instrumentl.com", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [],
+    "firm_contact": {"website": "silverfoundation.org", "email": null, "phone": null, "address": null, "linkedin": null, "source": "silverfoundation.org", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": "61532898"},
+    "discovered_via": "ProPublica 990-PF trail (Silver Family Foundation)",
+    "proof_source": "silverfoundation.org (independent of discovery)",
+    "record_confidence": "medium"
+  },
+  {
+    "entity": "Yarbrough Family Foundation",
+    "fo_type": {"value": "single", "source": "insidephilanthropy.com; causeiq.com", "confidence": "high", "evidence": "private foundation established ~2006-2008 by Jon Yarbrough (Video Gaming Technologies)"},
+    "family": "Yarbrough",
+    "location": {"city": "Franklin", "state": "TN", "source": "causeiq.com", "confidence": "high"},
+    "founded": {"value": 2007, "note": "sources say ~2006-2008", "source": "insidephilanthropy.com", "confidence": "medium"},
+    "aum": {"value": "~$24M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "education and youth (Battle Ground Academy), health and human services, and Christian/community outreach", "source": "insidephilanthropy.com", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Jon Yarbrough", "title": "Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "insidephilanthropy.com", "confidence": "high"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": "(615) 538-5636", "address": null, "linkedin": null, "source": "causeiq.com", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": "205980265"},
+    "discovered_via": "ProPublica 990-PF trail (Yarbrough Family Foundation)",
+    "proof_source": "insidephilanthropy.com; causeiq.com (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Baustert Family Foundation",
+    "fo_type": {"value": "single", "source": "hinchilla.com; niu.edu", "confidence": "high", "evidence": "private independent foundation established 2016 by James and Theo Baustert (James co-founded Cardiac Pacemakers, Inc.)"},
+    "family": "Baustert",
+    "location": {"city": "St. Paul", "state": "MN", "source": "hinchilla.com", "confidence": "high"},
+    "founded": {"value": 2016, "source": "hinchilla.com", "confidence": "high"},
+    "aum": {"value": "~$78M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "education, health sciences, and human services in Illinois and Minnesota; invitation-only, family-run board (e.g., $40M gift to NIU's Baustert Bahwell Health Technology Center)", "source": "niu.edu; philanthropy.com", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "James Baustert", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "hinchilla.com", "confidence": "high"},
+      {"name": "Theo Baustert", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "hinchilla.com", "confidence": "high"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": "473790400"},
+    "discovered_via": "ProPublica 990-PF trail (Baustert Family Foundation)",
+    "proof_source": "niu.edu; philanthropy.com (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Mondre Family Foundation",
+    "fo_type": {"value": "single", "source": "instrumentl.com; almanac.upenn.edu", "confidence": "high", "evidence": "established 2019 by Greg Mondre (co-CEO of Silver Lake) and Alexandra Mondre"},
+    "family": "Mondre",
+    "location": {"city": "New York", "state": "NY", "source": "causeiq.com", "confidence": "high"},
+    "founded": {"value": 2019, "source": "instrumentl.com", "confidence": "high"},
+    "aum": {"value": "~$51M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "educational access and middle-income student financial aid (e.g., $20M Mondre Family Initiative at UPenn)", "source": "almanac.upenn.edu; penntoday.upenn.edu", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Greg Mondre", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "almanac.upenn.edu", "confidence": "high"},
+      {"name": "Alexandra Mondre", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "almanac.upenn.edu", "confidence": "high"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": "833036876"},
+    "discovered_via": "ProPublica 990-PF trail (Mondre Family Foundation)",
+    "proof_source": "almanac.upenn.edu; penntoday.upenn.edu (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Konzen Family Foundation",
+    "fo_type": {"value": "single", "source": "hinchilla.com; causeiq.com", "confidence": "high", "evidence": "private grantmaking family foundation, invitation-only"},
+    "family": "Konzen",
+    "location": {"city": "Bellevue", "state": "WA", "source": "causeiq.com", "confidence": "high"},
+    "founded": {"value": null, "source": null, "confidence": "n/a"},
+    "aum": {"value": "~$18M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "grantmaking to pre-selected charitable groups (e.g., CARE USA) and community organizations; invitation-only, trustee-selected", "source": "causeiq.com; hinchilla.com", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": "853910161"},
+    "discovered_via": "ProPublica 990-PF trail (Konzen Family Foundation)",
+    "proof_source": "causeiq.com; hinchilla.com (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Cinelli Family Foundation",
+    "fo_type": {"value": "single", "source": "cinelli foundation materials", "confidence": "high", "evidence": "created by Al and Sharon Cinelli"},
+    "family": "Cinelli",
+    "location": {"city": "Lawrence", "state": "KS", "source": "ProPublica 990-PF", "confidence": "high"},
+    "founded": {"value": null, "source": null, "confidence": "n/a"},
+    "aum": {"value": "~$26M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "cures for blood, pancreatic, and breast cancers; and accelerated high-school learning to build a more educated workforce across socio-economic backgrounds", "source": "cinelli foundation materials", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Al Cinelli", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "foundation materials", "confidence": "high"},
+      {"name": "Sharon Cinelli", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "foundation materials", "confidence": "high"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": "873895218"},
+    "discovered_via": "ProPublica 990-PF trail (Cinelli Family Foundation)",
+    "proof_source": "foundation materials (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Dunlap Family Foundation",
+    "fo_type": {"value": "single", "source": "candid.org; grantmakers.io", "confidence": "high", "evidence": "private independent foundation honoring Edward B. Dunlap Jr. and family; Greater Pittsburgh"},
+    "family": "Dunlap",
+    "location": {"city": "Canonsburg", "state": "PA", "source": "ProPublica 990-PF", "confidence": "high"},
+    "founded": {"value": null, "source": null, "confidence": "n/a"},
+    "aum": {"value": "~$64M", "source": "candid.org", "confidence": "high"},
+    "thesis": {"value": "faith-inspired giving for human services, education, and strengthening families in the Greater Pittsburgh region", "source": "candid.org", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Edward B. Dunlap Jr.", "title": "Namesake / Family Principal", "work_email": null, "direct_phone": null, "linkedin": null, "source": "candid.org", "confidence": "medium"}
+    ],
+    "firm_contact": {"website": null, "email": "privatefoundationsolutions@pnc.com", "phone": null, "address": null, "linkedin": null, "source": "grantmakers.io", "confidence": "medium", "note": "administered via PNC private foundation solutions"},
+    "identifiers": {"cik": null, "ein": "884360481"},
+    "discovered_via": "ProPublica 990-PF trail (Dunlap Family Foundation)",
+    "proof_source": "candid.org; grantmakers.io (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Adelson Family Foundation",
+    "fo_type": {"value": "single", "source": "adelsonfoundation.org; hinchilla.com", "confidence": "high", "evidence": "private charitable foundation established 2007 by Sheldon and Miriam Adelson"},
+    "family": "Adelson",
+    "location": {"city": "Needham", "state": "MA", "source": "ProPublica 990-PF", "confidence": "high"},
+    "founded": {"value": 2007, "source": "hinchilla.com", "confidence": "high"},
+    "aum": {"value": null, "note": "990 assets modest (~$743K); operates as a flow-through funding tens of millions annually", "source": "ProPublica 990-PF; hinchilla.com", "confidence": "medium"},
+    "thesis": {"value": "strengthening Israel and the Jewish people — Israel advocacy, Jewish/Zionist education (Birthright), Holocaust and antisemitism awareness, and welfare/healthcare", "source": "adelsonfoundation.org; hinchilla.com", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Dr. Miriam Adelson", "title": "Chair / Principal", "work_email": null, "direct_phone": null, "linkedin": null, "source": "hinchilla.com", "confidence": "high"}
+    ],
+    "firm_contact": {"website": "adelsonfoundation.org", "email": null, "phone": null, "address": null, "linkedin": null, "source": "adelsonfoundation.org", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": "047024330"},
+    "discovered_via": "ProPublica 990-PF trail (Adelson Family Foundation)",
+    "proof_source": "adelsonfoundation.org; hinchilla.com (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Timashev Foundation",
+    "fo_type": {"value": "single", "source": "timashev foundation materials", "confidence": "high", "evidence": "family foundation built on Ratmir Timashev's entrepreneurial success (Veeam co-founder), Ohio"},
+    "family": "Timashev",
+    "location": {"city": "New York", "state": "NY", "source": "ProPublica 990-PF", "confidence": "low", "note": "activity centered in Ohio (Ohio State); verify HQ"},
+    "founded": {"value": null, "source": null, "confidence": "n/a"},
+    "aum": {"value": "~$1M", "source": "ProPublica 990-PF", "confidence": "medium", "note": "990 assets small; may fund from personal wealth"},
+    "thesis": {"value": "accelerating education through innovation — the Center for Software Innovation at Ohio State, and the Technology Leaders of the Future program for high-school innovators", "source": "timashev foundation materials", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Ratmir Timashev", "title": "Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "timashev foundation materials", "confidence": "high"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": "821674572"},
+    "discovered_via": "ProPublica 990-PF trail (Timashev Family Foundation)",
+    "proof_source": "timashev foundation materials (independent of discovery)",
+    "record_confidence": "medium"
+  },
+  {
+    "entity": "Kopp Family Office, LLC",
+    "fo_type": {"value": "single", "source": "koppfamilyfoundation.org; quiverquant.com", "confidence": "high", "evidence": "single-family office tied to financier Lee Kopp; related Kopp Family Foundation established by Lee and Barbara Kopp"},
+    "family": "Kopp",
+    "location": {"city": "Minnetonka", "state": "MN", "source": "SEC EDGAR (CIK 0001683689)", "confidence": "high"},
+    "founded": {"value": null, "source": null, "confidence": "n/a"},
+    "aum": {"value": "~$163M", "note": "reported public-equity 13F holdings; total AUM may differ", "source": "quiverquant.com (SEC 13F)", "confidence": "medium"},
+    "thesis": {"value": "manages the Kopp family's private wealth and public-equity portfolio (ETFs and major equities); related family philanthropy in education and emergency assistance in Minnesota", "source": "fintel.io; koppfamilyfoundation.org", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Kopp family (Lee Kopp legacy)", "title": "Principals", "work_email": null, "direct_phone": null, "linkedin": null, "source": "koppfamilyfoundation.org", "confidence": "medium"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": "0001683689", "ein": null},
+    "discovered_via": "SEC EDGAR full-text search, form 13F-HR",
+    "proof_source": "koppfamilyfoundation.org; quiverquant.com (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Kallir Family Foundation",
+    "fo_type": {"value": "single", "source": "philanthropy.org 990", "confidence": "high", "evidence": "private family foundation, New York; led by family member Jane Kallir as President"},
+    "family": "Kallir",
+    "location": {"city": "New York", "state": "NY", "source": "philanthropy.org 990", "confidence": "high"},
+    "founded": {"value": null, "source": null, "confidence": "n/a"},
+    "aum": {"value": "~$51M", "note": "net assets FY2024; $62.7M revenue that year", "source": "philanthropy.org 990 (Pt I)", "confidence": "high"},
+    "thesis": {"value": "private family grantmaking foundation based in New York, NY", "source": "philanthropy.org 990", "confidence": "medium"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Jane Kallir", "title": "President", "work_email": null, "direct_phone": null, "linkedin": null, "source": "philanthropy.org 990", "confidence": "high"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": "204144184"},
+    "discovered_via": "ProPublica 990-PF trail (Kallir Family Foundation)",
+    "proof_source": "philanthropy.org 990 (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Winiarski Family Foundation",
+    "fo_type": {"value": "single", "source": "insidephilanthropy.com; si.edu", "confidence": "high", "evidence": "private independent foundation established 2007 by Warren Winiarski (Stag's Leap Wine Cellars) and Barbara Winiarski"},
+    "family": "Winiarski",
+    "location": {"city": "Napa", "state": "CA", "source": "insidephilanthropy.com", "confidence": "high"},
+    "founded": {"value": 2007, "source": "insidephilanthropy.com", "confidence": "high"},
+    "aum": {"value": "~$14M", "note": "annual giving ~$1-4M; net assets per 990", "source": "ProPublica 990-PF", "confidence": "medium"},
+    "thesis": {"value": "education, conservation (Napa land/agricultural easements), healthcare, and preserving food and wine history; pre-selected partnerships, no unsolicited proposals", "source": "insidephilanthropy.com; si.edu", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Barbara Winiarski", "title": "Co-Founder / Trustee", "work_email": null, "direct_phone": null, "linkedin": null, "source": "si.edu", "confidence": "high"}
+    ],
+    "firm_contact": {"website": null, "email": null, "phone": null, "address": null, "linkedin": null, "source": null, "confidence": "n/a"},
+    "identifiers": {"cik": null, "ein": "260474242"},
+    "discovered_via": "ProPublica 990-PF trail (Winiarski Family Foundation)",
+    "proof_source": "insidephilanthropy.com; si.edu (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Steans Family Foundation",
+    "fo_type": {"value": "single", "source": "steansfamilyfoundation.org", "confidence": "high", "evidence": "family foundation established 1987; family members personally and actively involved; place-based giving in Chicago"},
+    "family": "Steans",
+    "location": {"city": "Chicago", "state": "IL", "source": "steansfamilyfoundation.org", "confidence": "high"},
+    "founded": {"value": 1987, "source": "steansfamilyfoundation.org", "confidence": "high"},
+    "aum": {"value": "~$295M", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "place-based community development in North Lawndale (Chicago) and North Chicago — early childhood, education, employment, and policy/ecosystem work", "source": "steansfamilyfoundation.org", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [],
+    "firm_contact": {"website": "steansfamilyfoundation.org", "email": null, "phone": null, "address": null, "linkedin": null, "source": "steansfamilyfoundation.org", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": "363486843"},
+    "discovered_via": "ProPublica 990-PF trail (Steans Family Foundation)",
+    "proof_source": "steansfamilyfoundation.org (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Patterson Family Foundation",
+    "fo_type": {"value": "single", "source": "pattersonfamilyfoundation.org", "confidence": "high", "evidence": "family-led foundation extending the legacy of Neal and Jeanne Patterson (Cerner co-founder)"},
+    "family": "Patterson",
+    "location": {"city": "Kansas City", "state": "MO", "source": "pattersonfamilyfoundation.org", "confidence": "high"},
+    "founded": {"value": null, "source": null, "confidence": "n/a"},
+    "aum": {"value": "~$1.5B", "source": "ProPublica 990-PF", "confidence": "high"},
+    "thesis": {"value": "helping rural communities thrive — economic opportunity, education, healthcare, and community engagement across rural Kansas and western Missouri (counties under 50,000 residents)", "source": "pattersonfamilyfoundation.org", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Neal Patterson", "title": "Legacy Founder (Cerner co-founder)", "work_email": null, "direct_phone": null, "linkedin": null, "source": "pattersonfamilyfoundation.org", "confidence": "medium"}
+    ],
+    "firm_contact": {"website": "pattersonfamilyfoundation.org", "email": null, "phone": null, "address": null, "linkedin": null, "source": "pattersonfamilyfoundation.org", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": "207550081"},
+    "discovered_via": "ProPublica 990-PF trail (Patterson Family Foundation)",
+    "proof_source": "pattersonfamilyfoundation.org (independent of discovery)",
+    "record_confidence": "high"
+  },
+  {
+    "entity": "Davis Family Foundation",
+    "fo_type": {"value": "single", "source": "davisfoundation.org", "confidence": "high", "evidence": "charitable foundation established by Phyllis C. and H. Halsey Davis (ex-President/Chairman of Shaw's Supermarkets)"},
+    "family": "Davis",
+    "location": {"city": "Falmouth", "state": "ME", "source": "davisfoundation.org", "confidence": "high"},
+    "founded": {"value": 1986, "source": "davisfoundation.org", "confidence": "high", "evidence": "grantmaking began 1986"},
+    "aum": {"value": null, "note": "grantmaking foundation; net assets per 990", "source": "ProPublica", "confidence": "low"},
+    "thesis": {"value": "supporting educational, medical, and cultural/arts organizations primarily in Maine", "source": "davisfoundation.org", "confidence": "high"},
+    "headcount": {"value": null, "source": null, "confidence": "n/a"},
+    "decision_makers": [
+      {"name": "Phyllis C. Davis", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "davisfoundation.org", "confidence": "high"},
+      {"name": "H. Halsey Davis", "title": "Co-Founder", "work_email": null, "direct_phone": null, "linkedin": null, "source": "davisfoundation.org", "confidence": "high"}
+    ],
+    "firm_contact": {"website": "davisfoundation.org", "email": null, "phone": null, "address": null, "linkedin": null, "source": "davisfoundation.org", "confidence": "high"},
+    "identifiers": {"cik": null, "ein": "010751429"},
+    "discovered_via": "ProPublica 990-PF trail (Davis Family Foundation)",
+    "proof_source": "davisfoundation.org (independent of discovery)",
+    "record_confidence": "high"
   }
 ]

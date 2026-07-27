@@ -1,11 +1,3 @@
-"""
-Retrieval, grounding controls, and generation for the Atrium RAG.
-
-Loads family_offices.json via records.py. Two grounding controls: a code-level
-confidence gate (decline below threshold) and an LLM instruction to answer
-only from the retrieved records.
-"""
-
 import os
 from sklearn.metrics.pairwise import cosine_similarity
 import records
@@ -53,7 +45,6 @@ def answer_question(question):
     sources = retrieve(question)
     best_score = sources[0]["score"] if sources else 0.0
 
-    # Grounding control in code (not only the prompt): refuse when evidence is weak.
     if best_score < CONFIDENCE_THRESHOLD:
         return {"answered": False, "best_score": best_score,
                 "text": ("There isn't strong enough evidence in the current "

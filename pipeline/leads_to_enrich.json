@@ -1,0 +1,730 @@
+[
+  {
+    "name": "EMFO, LLC",
+    "cik": "0001859434",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "WESTON, FL"
+  },
+  {
+    "name": "Allie Family Office LLC",
+    "cik": "0001908612",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "MIAMI, FL"
+  },
+  {
+    "name": "HALL LAURIE J TRUSTEE",
+    "cik": "0001388382",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "None, None"
+  },
+  {
+    "name": "Crestone Asset Management LLC",
+    "cik": "0001845617",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "BOULDER, CO"
+  },
+  {
+    "name": "Veritable, L.P.",
+    "cik": "0001300311",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "WILMINGTON, DE"
+  },
+  {
+    "name": "Dorsey & Whitney Trust CO LLC",
+    "cik": "0001384042",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "SIOUX FALLS, SD"
+  },
+  {
+    "name": "PATHSTONE FAMILY OFFICE, LLC",
+    "cik": "0001511137",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "ENGLEWOOD, NJ"
+  },
+  {
+    "name": "Biltmore Family Office, LLC",
+    "cik": "0001731123",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "CHARLOTTE, NC"
+  },
+  {
+    "name": "INTREPID FAMILY OFFICE LLC",
+    "cik": "0001596197",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "SARASOTA, FL"
+  },
+  {
+    "name": "Tarbox Family Office, Inc.",
+    "cik": "0001599603",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "NEWPORT BEACH, CA"
+  },
+  {
+    "name": "Duquesne Family Office LLC",
+    "cik": "0001536411",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "NEW YORK, NY"
+  },
+  {
+    "name": "CVA Family Office, LLC",
+    "cik": "0001802084",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "DENVER, CO"
+  },
+  {
+    "name": "Custos Family Office, LLC",
+    "cik": "0001904423",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "AUSTIN, TX"
+  },
+  {
+    "name": "COLLECTIVE FAMILY OFFICE LLC",
+    "cik": "0001845066",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "YORK, PA"
+  },
+  {
+    "name": "Arrowroot Family Office, LLC",
+    "cik": "0002017744",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "MARINA DEL REY, CA"
+  },
+  {
+    "name": "Independent Family Office, LLC",
+    "cik": "0001756485",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "ALBANY, NY"
+  },
+  {
+    "name": "BOSTON FAMILY OFFICE LLC",
+    "cik": "0001039807",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "BOSTON, MA"
+  },
+  {
+    "name": "Kopp Family Office, LLC",
+    "cik": "0001683689",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "MINNETONKA, MN"
+  },
+  {
+    "name": "Fortitude Family Office, LLC",
+    "cik": "0001950506",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "SCOTTSDALE, AZ"
+  },
+  {
+    "name": "Stenger Family Office, LLC",
+    "cik": "0002056106",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "NAPERVILLE, IL"
+  },
+  {
+    "name": "Callan Family Office, LLC",
+    "cik": "0001938970",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "RADNOR, PA"
+  },
+  {
+    "name": "Stokes Family Office, LLC",
+    "cik": "0001802278",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "NEW ORLEANS, LA"
+  },
+  {
+    "name": "Capitol Family Office, Inc.",
+    "cik": "0001863768",
+    "website": null,
+    "discovered_via": "13F-HR | \"family office\"",
+    "_from": "edgar",
+    "_loc": "BEAVERTON, OR"
+  },
+  {
+    "name": "Jeffrey Management Co",
+    "cik": "0001994532",
+    "website": null,
+    "discovered_via": "40-APP | \"single family office\"",
+    "_from": "edgar",
+    "_loc": "COLUMBUS, OH"
+  },
+  {
+    "name": "Benjamin Partners LLC",
+    "cik": "0002010331",
+    "website": null,
+    "discovered_via": "40-APP | \"single family office\"",
+    "_from": "edgar",
+    "_loc": "NEW YORK, NY"
+  },
+  {
+    "name": "Jeffrey LLC",
+    "cik": "0001668874",
+    "website": null,
+    "discovered_via": "40-APP | \"single family office\"",
+    "_from": "edgar",
+    "_loc": "COLUMBUS, OH"
+  },
+  {
+    "name": "Koum Family Foundation",
+    "ein": "475446562",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Koum",
+    "_assets_musd": 2329,
+    "_loc": "Palo Alto, CA"
+  },
+  {
+    "name": "Patterson Family Foundation",
+    "ein": "207550081",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Patterson",
+    "_assets_musd": 1526,
+    "_loc": "Kansas City, MO"
+  },
+  {
+    "name": "Patterson Family Foundation",
+    "ein": "376714807",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Patterson",
+    "_assets_musd": 1395,
+    "_loc": "Kansas City, MO"
+  },
+  {
+    "name": "Davis Family Foundation",
+    "ein": "10751429",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Davis",
+    "_assets_musd": 1355,
+    "_loc": "Hanover, MD"
+  },
+  {
+    "name": "Ford Family Foundation",
+    "ein": "936026156",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Ford",
+    "_assets_musd": 1125,
+    "_loc": "Roseburg, OR"
+  },
+  {
+    "name": "Hall Family Foundation",
+    "ein": "446006291",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Hall",
+    "_assets_musd": 1032,
+    "_loc": "Kansas City, MO"
+  },
+  {
+    "name": "Sobrato Family Foundation",
+    "ein": "770348912",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Sobrato",
+    "_assets_musd": 877,
+    "_loc": "Mountain View, CA"
+  },
+  {
+    "name": "Overdeck Family Foundation",
+    "ein": "264377643",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Overdeck",
+    "_assets_musd": 827,
+    "_loc": "New York, NY"
+  },
+  {
+    "name": "Klarman Family Foundation",
+    "ein": "43105768",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Klarman",
+    "_assets_musd": 744,
+    "_loc": "Boston, MA"
+  },
+  {
+    "name": "Poses Family Foundation",
+    "ein": "206375470",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Poses",
+    "_assets_musd": 630,
+    "_loc": "Florham Park, NJ"
+  },
+  {
+    "name": "Stanley Family Foundation",
+    "ein": "61157888",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Stanley",
+    "_assets_musd": 554,
+    "_loc": "Briarcliff, NY"
+  },
+  {
+    "name": "Mulva Family Foundation",
+    "ein": "203221183",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Mulva",
+    "_assets_musd": 468,
+    "_loc": "Austin, TX"
+  },
+  {
+    "name": "Weill Family Foundation",
+    "ein": "136223609",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Weill",
+    "_assets_musd": 359,
+    "_loc": "Albany, NY"
+  },
+  {
+    "name": "Karsh Family Foundation",
+    "ein": "137147287",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Karsh",
+    "_assets_musd": 336,
+    "_loc": "Beverly Hills, CA"
+  },
+  {
+    "name": "Steans Family Foundation",
+    "ein": "363486843",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Steans",
+    "_assets_musd": 295,
+    "_loc": "Chicago, IL"
+  },
+  {
+    "name": "Hunter Family Foundation",
+    "ein": "371887329",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Hunter",
+    "_assets_musd": 287,
+    "_loc": "Chicago, IL"
+  },
+  {
+    "name": "Chestnut Family Foundation",
+    "ein": "814986125",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Chestnut",
+    "_assets_musd": 277,
+    "_loc": "Atlanta, GA"
+  },
+  {
+    "name": "Zell Family Foundation",
+    "ein": "363487811",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Zell",
+    "_assets_musd": 275,
+    "_loc": "Chicago, IL"
+  },
+  {
+    "name": "Offutt Family Foundation",
+    "ein": "266574983",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Offutt",
+    "_assets_musd": 271,
+    "_loc": "Fargo, ND"
+  },
+  {
+    "name": "Pathy Family Foundation",
+    "ein": "981735754",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Pathy",
+    "_assets_musd": 247,
+    "_loc": "Canada, None"
+  },
+  {
+    "name": "Edgerley Family Foundation",
+    "ein": "201867709",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Edgerley",
+    "_assets_musd": 225,
+    "_loc": "Overland Park, KS"
+  },
+  {
+    "name": "Hao Family Foundation",
+    "ein": "473853918",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Hao",
+    "_assets_musd": 188,
+    "_loc": "Saratoga Spgs, NY"
+  },
+  {
+    "name": "Pichai Family Foundation",
+    "ein": "832405611",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Pichai",
+    "_assets_musd": 172,
+    "_loc": "San Francisco, CA"
+  },
+  {
+    "name": "Bezos Family Foundation",
+    "ein": "912073258",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Bezos",
+    "_assets_musd": 165,
+    "_loc": "Seattle, WA"
+  },
+  {
+    "name": "Farmer Family Foundation",
+    "ein": "311256614",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Farmer",
+    "_assets_musd": 161,
+    "_loc": "Cincinnati, OH"
+  },
+  {
+    "name": "Names Family Foundation",
+    "ein": "943250195",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Names",
+    "_assets_musd": 160,
+    "_loc": "Fircrest, WA"
+  },
+  {
+    "name": "Linde Family Foundation",
+    "ein": "46904949",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Linde",
+    "_assets_musd": 160,
+    "_loc": "Boston, MA"
+  },
+  {
+    "name": "Pritzker Family Foundation",
+    "ein": "300039820",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Pritzker",
+    "_assets_musd": 148,
+    "_loc": "Chicago, IL"
+  },
+  {
+    "name": "Goldring Family Foundation",
+    "ein": "726022666",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Goldring",
+    "_assets_musd": 135,
+    "_loc": "Metairie, LA"
+  },
+  {
+    "name": "Tsao Family Foundation",
+    "ein": "202043022",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Tsao",
+    "_assets_musd": 88,
+    "_loc": "Corona Dl Mar, CA"
+  },
+  {
+    "name": "Sundheim Family Foundation",
+    "ein": "831563495",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Sundheim",
+    "_assets_musd": 83,
+    "_loc": "New York, NY"
+  },
+  {
+    "name": "Slaggie Family Foundation",
+    "ein": "411878894",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Slaggie",
+    "_assets_musd": 69,
+    "_loc": "Winona, MN"
+  },
+  {
+    "name": "Zorich Family Foundation",
+    "ein": "760664404",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Zorich",
+    "_assets_musd": 65,
+    "_loc": "Houston, TX"
+  },
+  {
+    "name": "Crabill Family Foundation",
+    "ein": "832152945",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Crabill",
+    "_assets_musd": 54,
+    "_loc": "San Francisco, CA"
+  },
+  {
+    "name": "Spaht Family Foundation",
+    "ein": "832183149",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Spaht",
+    "_assets_musd": 50,
+    "_loc": "San Francisco, CA"
+  },
+  {
+    "name": "Phillips Family Foundation",
+    "ein": "750590214",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Phillips",
+    "_assets_musd": 47,
+    "_loc": "Houston, TX"
+  },
+  {
+    "name": "Marek Family Foundation",
+    "ein": "746108373",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Marek",
+    "_assets_musd": 47,
+    "_loc": "Houston, TX"
+  },
+  {
+    "name": "Towle Family Foundation",
+    "ein": "431800405",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Towle",
+    "_assets_musd": 42,
+    "_loc": "Greenwood Vlg, CO"
+  },
+  {
+    "name": "Beemok Family Foundation",
+    "ein": "465382571",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Beemok",
+    "_assets_musd": 37,
+    "_loc": "Charleston, SC"
+  },
+  {
+    "name": "Silver Family Foundation",
+    "ein": "61532898",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Silver",
+    "_assets_musd": 34,
+    "_loc": "Portland, OR"
+  },
+  {
+    "name": "Baustert Family Foundation",
+    "ein": "473790400",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Baustert",
+    "_assets_musd": 31,
+    "_loc": "St Paul, MN"
+  },
+  {
+    "name": "Yarbrough Family Foundation",
+    "ein": "205980265",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Yarbrough",
+    "_assets_musd": 28,
+    "_loc": "Franklin, TN"
+  },
+  {
+    "name": "Friedman Family Foundation",
+    "ein": "133025979",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Friedman",
+    "_assets_musd": 26,
+    "_loc": "New York, NY"
+  },
+  {
+    "name": "Cinelli Family Foundation",
+    "ein": "873895218",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Cinelli",
+    "_assets_musd": 26,
+    "_loc": "Lawrence, KS"
+  },
+  {
+    "name": "Konzen Family Foundation",
+    "ein": "853910161",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Konzen",
+    "_assets_musd": 18,
+    "_loc": "Issaquah, WA"
+  },
+  {
+    "name": "Mondre Family Foundation",
+    "ein": "833036876",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Mondre",
+    "_assets_musd": 16,
+    "_loc": "New York, NY"
+  },
+  {
+    "name": "Winiarski Family Foundation",
+    "ein": "260474242",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Winiarski",
+    "_assets_musd": 14,
+    "_loc": "Yountville, CA"
+  },
+  {
+    "name": "Mandarich Family Foundation",
+    "ein": "464325245",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Mandarich",
+    "_assets_musd": 12,
+    "_loc": "Denver, CO"
+  },
+  {
+    "name": "Kallir Family Foundation",
+    "ein": "204144184",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Kallir",
+    "_assets_musd": 6,
+    "_loc": "New York, NY"
+  },
+  {
+    "name": "Timashev Family Foundation",
+    "ein": "821674572",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Timashev",
+    "_assets_musd": 1,
+    "_loc": "New York, NY"
+  },
+  {
+    "name": "Adelson Family Foundation",
+    "ein": "47024330",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Adelson",
+    "_assets_musd": 1,
+    "_loc": "Needham, MA"
+  },
+  {
+    "name": "Dunlap Family Foundation",
+    "ein": "884360481",
+    "website": null,
+    "discovered_via": "ProPublica 990 search | \"family foundation\"",
+    "_from": "990pf",
+    "_family_hint": "Dunlap",
+    "_assets_musd": 0,
+    "_loc": "Canonsburg, PA"
+  }
+]
