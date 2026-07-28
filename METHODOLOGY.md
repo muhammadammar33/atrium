@@ -134,11 +134,26 @@ with the layers kept separate:
 
 ## 10. Limitations & next steps
 
-- **Contact validation** — emails are recorded but not yet deliverability-verified;
-  a validation pass (syntax, MX, quality scoring) is the next enrichment.
-- **Multi-branch families** — entities like the Pritzker family span several
-  independent foundations; each recorded branch should have its EIN confirmed.
-- **Coverage** — EDGAR skews large; deeper 990-PF paging and additional trails
-  (Form ADV, state registries) would extend reach.
-- **Recency** — figures are drawn from the latest available filings; a refresh
-  cadence would keep AUM and personnel current.
+- **Semantic-only retrieval (not field-aware).** Retrieval matches on overall
+  meaning rather than exact fields, so queries that hinge on a specific attribute
+  can miss records that match that attribute but are semantically dominated by
+  other text. Observed directly: "single-family offices in Chicago" surfaced
+  strongly SFO-flavored records from other cities rather than the Chicago offices
+  actually in the dataset (Crown, Zell, Steans, Hunter). The grounding control
+  behaved correctly — it declined to fabricate a Chicago match rather than
+  inventing one. The production fix is **hybrid retrieval**: a structured filter on
+  fields like city/state combined with semantic ranking, returning the correct
+  records while still ordering them by relevance.
+- **Contact validation.** Emails and phones are recorded but not yet
+  deliverability-verified; a validation pass (syntax, MX, quality scoring) is the
+  next enrichment, and would populate the email-validation columns in the target
+  schema.
+- **Single-family office invisibility.** The most private offices leave few public
+  signals (see §5), so contact completeness is structurally lower for exactly the
+  highest-value families. This is a property of the market, not a fixable gap.
+- **Multi-branch families.** Entities such as the Pritzker family span several
+  independent foundations; each recorded branch should have its EIN confirmed
+  against the specific branch described.
+- **Coverage & recency.** EDGAR skews toward larger managers; deeper 990-PF paging
+  and additional trails (Form ADV, state registries) would extend reach, and a
+  refresh cadence would keep AUM and personnel current.
