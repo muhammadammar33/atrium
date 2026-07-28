@@ -1,32 +1,22 @@
 [
   {
     "entity": "Duquesne Family Office LLC",
-    "fo_type": {
-      "value": "single",
-      "source": "cnbc.com; familyofficehub.io",
-      "confidence": "high",
-      "evidence": "single-family office of Stanley Druckenmiller; accepts no external capital"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "cnbc.com; familyofficehub.io",
+    "fo_type_evidence": "single-family office of Stanley Druckenmiller; accepts no external capital",
     "family": "Druckenmiller",
-    "location": {
-      "city": "NEW YORK",
-      "state": "NY",
-      "source": "SEC EDGAR submissions (API)"
+    "identifiers": {
+      "cik": "0001536411",
+      "ein": null
     },
+    "thesis": "concentrated global macro; multi-asset across public and private markets",
+    "thesis_source": "cnbc.com",
     "founded": {
       "value": 2010,
       "source": "cnbc.com",
       "confidence": "medium",
       "evidence": "formed after Druckenmiller closed Duquesne Capital to outside investors"
-    },
-    "aum": {
-      "value": "$4B-$8B",
-      "note": "sources disagree; recorded as a range",
-      "source": "cnbc.com; familyofficehub.io"
-    },
-    "thesis": {
-      "value": "concentrated global macro; multi-asset across public and private markets",
-      "source": "cnbc.com"
     },
     "decision_makers": [
       {
@@ -48,48 +38,38 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": "0001536411",
-      "ein": null
-    },
-    "_country": null,
     "discovered_via": "SEC EDGAR full-text search, form 13F-HR, phrase \"family office\"",
     "proof_source": "cnbc.com / familyofficehub.io (independent of the discovery source)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "manual",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Duquesne Family Office LLC",
+      "city": "New York",
+      "state": "NY",
+      "location_source": "SEC EDGAR submissions (CIK 0001536411)",
+      "aum": "$4B-$8B",
+      "aum_note": "sources disagree; recorded as a range",
+      "aum_source": "cnbc.com; familyofficehub.io"
     }
   },
   {
     "entity": "The Jeffrey Company (Jeffrey Fiduciary Co.)",
-    "fo_type": {
-      "value": "single",
-      "source": "jeffreyco.com; pitchbook.com",
-      "confidence": "high",
-      "evidence": "self-describes as family office and trust company; profile lists it as a single-family office in Columbus"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "jeffreyco.com; pitchbook.com",
+    "fo_type_evidence": "self-describes as family office and trust company; profile lists it as a single-family office in Columbus",
     "family": "Jeffrey",
-    "location": {
-      "city": "COLUMBUS",
-      "state": "OH",
-      "source": "SEC EDGAR submissions (API)"
+    "identifiers": {
+      "cik": "0001994532",
+      "ein": null
     },
+    "thesis": "global investment fund, family office and trust services; long-horizon multi-asset",
+    "thesis_source": "rocketreach.co (firm description)",
     "founded": {
       "value": null,
       "note": "family enterprise since 1877; modern family-office/trust structure, exact formation date unverified",
       "source": "jeffreyco.com/our-history",
       "confidence": "low"
-    },
-    "aum": {
-      "value": null,
-      "note": "not publicly disclosed",
-      "source": null
-    },
-    "thesis": {
-      "value": "global investment fund, family office and trust services; long-horizon multi-asset",
-      "source": "rocketreach.co (firm description)"
     },
     "decision_makers": [
       {
@@ -111,47 +91,37 @@
       "source": "jeffreyco.com (firm's own website)",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": "0001994532",
-      "ein": null
-    },
-    "_country": null,
     "discovered_via": "SEC EDGAR full-text search, form 40-APP, phrase \"single family office\"",
     "proof_source": "jeffreyco.com + pitchbook.com (independent of the discovery source)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "unavailable",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "The Jeffrey Company (Jeffrey Fiduciary Co.)",
+      "city": "Columbus",
+      "state": "OH",
+      "location_source": "jeffreyco.com",
+      "aum": null,
+      "aum_note": "not publicly disclosed",
+      "aum_source": null
     }
   },
   {
     "entity": "Henry Crown and Company (HCC)",
-    "fo_type": {
-      "value": "single",
-      "source": "businesswire.com; snowbrains.com",
-      "confidence": "high",
-      "evidence": "explicitly described as \"the family office for the Crown family\""
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "businesswire.com; snowbrains.com",
+    "fo_type_evidence": "explicitly described as \"the family office for the Crown family\"",
     "family": "Crown",
-    "location": {
-      "city": "Chicago",
-      "state": "IL",
-      "source": "chicagocollections.org"
+    "identifiers": {
+      "cik": null,
+      "ein": null
     },
+    "thesis": "public securities, real estate, private equity, infrastructure, operating companies, sports franchises (Bulls; Aspen Skiing; Alterra)",
+    "thesis_source": "altss.com",
     "founded": {
       "value": 1959,
       "source": "en.wikipedia.org/Henry_Crown",
       "confidence": "high"
-    },
-    "aum": {
-      "value": null,
-      "note": "not publicly disclosed",
-      "source": "altss.com"
-    },
-    "thesis": {
-      "value": "public securities, real estate, private equity, infrastructure, operating companies, sports franchises (Bulls; Aspen Skiing; Alterra)",
-      "source": "altss.com"
     },
     "decision_makers": [
       {
@@ -182,48 +152,38 @@
       "source": "linkedin.com",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": null
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Crown Family Foundation, Chicago)",
     "proof_source": "businesswire.com / snowbrains.com (independent of the discovery source)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "manual",
-      "aum": "unavailable",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Henry Crown and Company (HCC)",
+      "city": "Chicago",
+      "state": "IL",
+      "location_source": "chicagocollections.org",
+      "aum": null,
+      "aum_note": "not publicly disclosed",
+      "aum_source": "altss.com"
     }
   },
   {
     "entity": "The Sobrato Organization (TSO)",
-    "fo_type": {
-      "value": "single",
-      "source": "sobrato.com; linkedin.com",
-      "confidence": "high",
-      "evidence": "100% owned by the Sobrato family, no institutional partners or outside investors"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "sobrato.com; linkedin.com",
+    "fo_type_evidence": "100% owned by the Sobrato family, no institutional partners or outside investors",
     "family": "Sobrato",
-    "location": {
-      "city": "Mountain View",
-      "state": "CA",
-      "source": "sobrato.com"
+    "identifiers": {
+      "cik": null,
+      "ein": null
     },
+    "thesis": "commercial real estate (office/R&D), multifamily communities, and long-horizon direct investing via Sobrato Capital; no outside equity partners",
+    "thesis_source": "sobrato.com",
     "founded": {
       "value": 1979,
       "source": "en.wikipedia.org/John_A._Sobrato",
       "confidence": "high",
       "evidence": "family in Silicon Valley real estate since 1953; TSO formed 1979"
-    },
-    "aum": {
-      "value": null,
-      "note": "not disclosed; portfolio ~7.5M sq ft office/R&D + ~7,500 multifamily units",
-      "source": "sobrato.com"
-    },
-    "thesis": {
-      "value": "commercial real estate (office/R&D), multifamily communities, and long-horizon direct investing via Sobrato Capital; no outside equity partners",
-      "source": "sobrato.com"
     },
     "decision_makers": [
       {
@@ -263,47 +223,37 @@
       "source": "sobrato.com",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": null
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Sobrato Family Foundation, Mountain View)",
     "proof_source": "sobrato.com / en.wikipedia.org (independent of discovery source)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "manual",
-      "aum": "unavailable",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "The Sobrato Organization (TSO)",
+      "city": "Mountain View",
+      "state": "CA",
+      "location_source": "sobrato.com",
+      "aum": null,
+      "aum_note": "not disclosed; portfolio ~7.5M sq ft office/R&D + ~7,500 multifamily units",
+      "aum_source": "sobrato.com"
     }
   },
   {
     "entity": "Chai Trust Company (Zell Family Office)",
-    "fo_type": {
-      "value": "single",
-      "source": "chaitrust.com",
-      "confidence": "high",
-      "evidence": "private trust company for the Zell family; houses the Zell Family Office"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "chaitrust.com",
+    "fo_type_evidence": "private trust company for the Zell family; houses the Zell Family Office",
     "family": "Zell",
-    "location": {
-      "city": "Chicago",
-      "state": "IL",
-      "source": "chaitrust.com"
+    "identifiers": {
+      "cik": null,
+      "ein": null
     },
+    "thesis": "private trust company for the Zell family; direct investing via Equity Group Investments (EGI) plus family-office services via the Zell Family Office (ZFO)",
+    "thesis_source": "chaitrust.com",
     "founded": {
       "value": null,
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": null,
-      "note": "not disclosed",
-      "source": null
-    },
-    "thesis": {
-      "value": "private trust company for the Zell family; direct investing via Equity Group Investments (EGI) plus family-office services via the Zell Family Office (ZFO)",
-      "source": "chaitrust.com"
     },
     "decision_makers": [],
     "firm_contact": {
@@ -315,44 +265,34 @@
       "source": "chaitrust.com",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": null
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Zell Family Foundation)",
     "proof_source": "chaitrust.com (independent of discovery source)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "manual",
-      "aum": "unavailable",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Chai Trust Company (Zell Family Office)",
+      "city": "Chicago",
+      "state": "IL",
+      "location_source": "chaitrust.com",
+      "aum": null,
+      "aum_note": "not disclosed",
+      "aum_source": null
     }
   },
   {
     "entity": "Karsh Family Office",
-    "fo_type": {
-      "value": "single",
-      "source": "propublica.org; oaktreecapital.com",
-      "confidence": "low",
-      "evidence": "family office tied to Bruce & Martha Karsh; distinct operating entity not clearly documented separate from the family foundation"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "propublica.org; oaktreecapital.com",
+    "fo_type_evidence": "family office tied to Bruce & Martha Karsh; distinct operating entity not clearly documented separate from the family foundation",
     "family": "Karsh",
-    "location": {
-      "city": "Beverly Hills",
-      "state": "CA",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "137147287"
     },
+    "thesis": "private/alternative market investments and venture co-investments; large-scale philanthropy (higher ed, civic education)",
+    "thesis_source": "insidephilanthropy.com",
     "founded": null,
-    "aum": {
-      "value": "~$336M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "private/alternative market investments and venture co-investments; large-scale philanthropy (higher ed, civic education)",
-      "source": "insidephilanthropy.com"
-    },
     "decision_makers": [
       {
         "name": "Bruce Karsh",
@@ -382,48 +322,38 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "137147287"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Karsh Family Foundation)",
     "proof_source": "oaktreecapital.com / insidephilanthropy.com",
     "record_confidence": "low",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Karsh Family Office",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location_source": "karshcenter.org",
+      "aum": null,
+      "aum_note": "not disclosed",
+      "aum_source": null
     }
   },
   {
     "entity": "The Ford Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "tfff.org",
-      "confidence": "high",
-      "evidence": "private foundation of the Ford family (Kenneth W. Ford, Roseburg Forest Products); rural Oregon philanthropy"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "tfff.org",
+    "fo_type_evidence": "private foundation of the Ford family (Kenneth W. Ford, Roseburg Forest Products); rural Oregon philanthropy",
     "family": "Ford",
-    "location": {
-      "city": "Roseburg",
-      "state": "OR",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "936026156"
     },
+    "thesis": "rural philanthropy \u2014 grants, scholarships, and community building for rural Oregon and Siskiyou County, CA; early childhood, education, community capacity",
+    "thesis_source": "tfff.org",
     "founded": {
       "value": null,
       "note": "see tfff.org/about/roots",
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": "~$1.1B",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "rural philanthropy \u2014 grants, scholarships, and community building for rural Oregon and Siskiyou County, CA; early childhood, education, community capacity",
-      "source": "tfff.org"
     },
     "decision_makers": [],
     "firm_contact": {
@@ -435,47 +365,37 @@
       "source": "tfff.org",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "936026156"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Ford Family Foundation)",
     "proof_source": "tfff.org (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "The Ford Family Foundation",
+      "city": "Roseburg",
+      "state": "OR",
+      "location_source": "tfff.org",
+      "aum": "~$1.1B",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Hall Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "hallfamilyfoundation.org",
-      "confidence": "high",
-      "evidence": "private philanthropic foundation of the Hall family (Hallmark Cards), Greater Kansas City"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "hallfamilyfoundation.org",
+    "fo_type_evidence": "private philanthropic foundation of the Hall family (Hallmark Cards), Greater Kansas City",
     "family": "Hall",
-    "location": {
-      "city": "Kansas City",
-      "state": "MO",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "446006291"
     },
+    "thesis": "Greater Kansas City philanthropy \u2014 community quality of life, systemic solutions to community needs, education and civic initiatives",
+    "thesis_source": "hallfamilyfoundation.org",
     "founded": {
       "value": null,
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": "~$1.0B",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "Greater Kansas City philanthropy \u2014 community quality of life, systemic solutions to community needs, education and civic initiatives",
-      "source": "hallfamilyfoundation.org"
     },
     "decision_makers": [],
     "firm_contact": {
@@ -487,47 +407,37 @@
       "source": "hallfamilyfoundation.org",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "446006291"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Hall Family Foundation)",
     "proof_source": "hallfamilyfoundation.org (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Hall Family Foundation",
+      "city": "Kansas City",
+      "state": "MO",
+      "location_source": "hallfamilyfoundation.org",
+      "aum": "~$1.03B",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Poses Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "insidephilanthropy.com; linkedin.com",
-      "confidence": "high",
-      "evidence": "private family foundation established 2004 by Nancy and Fred Poses"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "insidephilanthropy.com; linkedin.com",
+    "fo_type_evidence": "private family foundation established 2004 by Nancy and Fred Poses",
     "family": "Poses",
-    "location": {
-      "city": "Florham Park",
-      "state": "NJ",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "206375470"
     },
+    "thesis": "learning and thinking differences (learning disabilities), K-12 education, human services, mental health, and the arts; combines grants with operational capacity-building",
+    "thesis_source": "insidephilanthropy.com; zeroproject.org",
     "founded": {
       "value": 2004,
       "source": "insidephilanthropy.com",
       "confidence": "high"
-    },
-    "aum": {
-      "value": "~$630M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "learning and thinking differences (learning disabilities), K-12 education, human services, mental health, and the arts; combines grants with operational capacity-building",
-      "source": "insidephilanthropy.com; zeroproject.org"
     },
     "decision_makers": [
       {
@@ -558,47 +468,37 @@
       "source": "linkedin.com",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "206375470"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Poses Family Foundation)",
     "proof_source": "insidephilanthropy.com (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Poses Family Foundation",
+      "city": "Florham Park",
+      "state": "NJ",
+      "location_source": "ProPublica 990-PF",
+      "aum": "~$730M",
+      "aum_note": null,
+      "aum_source": "philanthropy.org 990"
     }
   },
   {
     "entity": "Stanley Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "broadinstitute.org; insidephilanthropy.com",
-      "confidence": "high",
-      "evidence": "private foundation established 1985 by Ted and Vada Stanley"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "broadinstitute.org; insidephilanthropy.com",
+    "fo_type_evidence": "private foundation established 1985 by Ted and Vada Stanley",
     "family": "Stanley",
-    "location": {
-      "city": "Briarcliff",
-      "state": "NY",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "61157888"
     },
+    "thesis": "psychiatric research \u2014 concentrated, invitation-only giving to human genetics, neurobiology, and computational research on schizophrenia and bipolar disorder, chiefly via the Stanley Center at the Broad Institute",
+    "thesis_source": "broadinstitute.org",
     "founded": {
       "value": 1985,
       "source": "broadinstitute.org",
       "confidence": "high"
-    },
-    "aum": {
-      "value": "~$554M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "psychiatric research \u2014 concentrated, invitation-only giving to human genetics, neurobiology, and computational research on schizophrenia and bipolar disorder, chiefly via the Stanley Center at the Broad Institute",
-      "source": "broadinstitute.org"
     },
     "decision_makers": [],
     "firm_contact": {
@@ -610,47 +510,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "61157888"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Stanley Family Foundation)",
     "proof_source": "broadinstitute.org (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Stanley Family Foundation",
+      "city": "Briarcliff Manor",
+      "state": "NY",
+      "location_source": "ProPublica 990-PF",
+      "aum": "~$554M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Overdeck Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "overdeck.org",
-      "confidence": "high",
-      "evidence": "private family foundation founded 2011 by John & Laura Overdeck (John Overdeck co-founded Two Sigma)"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "overdeck.org",
+    "fo_type_evidence": "private family foundation founded 2011 by John & Laura Overdeck (John Overdeck co-founded Two Sigma)",
     "family": "Overdeck",
-    "location": {
-      "city": "New York",
-      "state": "NY",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "264377643"
     },
+    "thesis": "education philanthropy \u2014 school readiness, school success, and future readiness; funds both bold ideas and proven, evidence-based solutions",
+    "thesis_source": "overdeck.org",
     "founded": {
       "value": 2011,
       "source": "overdeck.org",
       "confidence": "high"
-    },
-    "aum": {
-      "value": "~$827M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "education philanthropy \u2014 school readiness, school success, and future readiness; funds both bold ideas and proven, evidence-based solutions",
-      "source": "overdeck.org"
     },
     "decision_makers": [
       {
@@ -681,47 +571,37 @@
       "source": "overdeck.org",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "264377643"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Overdeck Family Foundation)",
     "proof_source": "overdeck.org (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Overdeck Family Foundation",
+      "city": "New York",
+      "state": "NY",
+      "location_source": "overdeck.org; ProPublica 990-PF",
+      "aum": "~$827M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Hunter Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "hunterfamilyfoundation.org",
-      "confidence": "high",
-      "evidence": "private family foundation founded 1993 by Maxine Morrison Hunter and Thomas Benton Hunter III"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "hunterfamilyfoundation.org",
+    "fo_type_evidence": "private family foundation founded 1993 by Maxine Morrison Hunter and Thomas Benton Hunter III",
     "family": "Hunter",
-    "location": {
-      "city": "Chicago",
-      "state": "IL",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "371887329"
     },
+    "thesis": "family-centered philanthropy across learn/play/grow \u2014 early childhood and K-12 education, environmental stewardship and access to nature, community-based healthcare and food security; trust-based philanthropy",
+    "thesis_source": "hunterfamilyfoundation.org",
     "founded": {
       "value": 1993,
       "source": "hunterfamilyfoundation.org",
       "confidence": "high"
-    },
-    "aum": {
-      "value": "~$287M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "family-centered philanthropy across learn/play/grow \u2014 early childhood and K-12 education, environmental stewardship and access to nature, community-based healthcare and food security; trust-based philanthropy",
-      "source": "hunterfamilyfoundation.org"
     },
     "decision_makers": [
       {
@@ -752,47 +632,37 @@
       "source": "hunterfamilyfoundation.org",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "371887329"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Hunter Family Foundation)",
     "proof_source": "hunterfamilyfoundation.org (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Hunter Family Foundation",
+      "city": "Chicago",
+      "state": "IL",
+      "location_source": "ProPublica 990-PF",
+      "aum": "~$287M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Mulva Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "hinchilla.com; propublica.org",
-      "confidence": "high",
-      "evidence": "private family foundation established 2005 by James J. Mulva (ex-ConocoPhillips CEO) and Miriam B. Mulva"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "hinchilla.com; propublica.org",
+    "fo_type_evidence": "private family foundation established 2005 by James J. Mulva (ex-ConocoPhillips CEO) and Miriam B. Mulva",
     "family": "Mulva",
-    "location": {
-      "city": "Austin",
-      "state": "TX",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "203221183"
     },
+    "thesis": "medicine and healthcare, higher education (UT Austin), youth programs, and the Catholic Church; transformational multi-year capital pledges, trustee-directed",
+    "thesis_source": "hinchilla.com; dellmed.utexas.edu",
     "founded": {
       "value": 2005,
       "source": "hinchilla.com",
       "confidence": "high"
-    },
-    "aum": {
-      "value": "~$468M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "medicine and healthcare, higher education (UT Austin), youth programs, and the Catholic Church; transformational multi-year capital pledges, trustee-directed",
-      "source": "hinchilla.com; dellmed.utexas.edu"
     },
     "decision_makers": [
       {
@@ -823,47 +693,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "203221183"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Mulva Family Foundation)",
     "proof_source": "dellmed.utexas.edu; hinchilla.com (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Mulva Family Foundation",
+      "city": "Austin",
+      "state": "TX",
+      "location_source": "propublica.org",
+      "aum": "~$468M",
+      "aum_note": "one source cites >$541M; recorded conservatively from 990",
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Weill Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "forbes.com; hinchilla.com",
-      "confidence": "high",
-      "evidence": "private philanthropic foundation established 1967 by Sanford 'Sandy' Weill (ex-Citigroup CEO) and Joan Weill"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "forbes.com; hinchilla.com",
+    "fo_type_evidence": "private philanthropic foundation established 1967 by Sanford 'Sandy' Weill (ex-Citigroup CEO) and Joan Weill",
     "family": "Weill",
-    "location": {
-      "city": "Albany",
-      "state": "NY",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "136223609"
     },
+    "thesis": "medical and scientific research hubs (Weill Neurohub, Weill Cancer Hub), veterinary medicine (UC Davis), higher education, and debt-free medical education",
+    "thesis_source": "forbes.com; cnbc.com",
     "founded": {
       "value": 1967,
       "source": "hinchilla.com",
       "confidence": "high"
-    },
-    "aum": {
-      "value": "~$359M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "medical and scientific research hubs (Weill Neurohub, Weill Cancer Hub), veterinary medicine (UC Davis), higher education, and debt-free medical education",
-      "source": "forbes.com; cnbc.com"
     },
     "decision_makers": [
       {
@@ -894,47 +754,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "136223609"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Weill Family Foundation)",
     "proof_source": "forbes.com; cnbc.com (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Weill Family Foundation",
+      "city": "Albany",
+      "state": "NY",
+      "location_source": "ProPublica 990-PF",
+      "aum": "~$359M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Offutt Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "rdoffuttfarms.com; charitynavigator.org",
-      "confidence": "high",
-      "evidence": "private family foundation founded by Ronald D. Offutt (R.D. Offutt Company / RDO Equipment Co.)"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "rdoffuttfarms.com; charitynavigator.org",
+    "fo_type_evidence": "private family foundation founded by Ronald D. Offutt (R.D. Offutt Company / RDO Equipment Co.)",
     "family": "Offutt",
-    "location": {
-      "city": "Fargo",
-      "state": "ND",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "266574983"
     },
+    "thesis": "place-based giving across the RDO operating footprint (North Dakota, NW Minnesota) \u2014 education, healthcare (Mayo Clinic), community quality of life, veterans; employee-nominated Community Builder grants",
+    "thesis_source": "rdoffuttfarms.com; rdoequipment.com",
     "founded": {
       "value": null,
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": "~$271M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "place-based giving across the RDO operating footprint (North Dakota, NW Minnesota) \u2014 education, healthcare (Mayo Clinic), community quality of life, veterans; employee-nominated Community Builder grants",
-      "source": "rdoffuttfarms.com; rdoequipment.com"
     },
     "decision_makers": [
       {
@@ -956,47 +806,37 @@
       "source": "linkedin.com",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "266574983"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Offutt Family Foundation)",
     "proof_source": "rdoffuttfarms.com; charitynavigator.org (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Offutt Family Foundation",
+      "city": "Fargo",
+      "state": "ND",
+      "location_source": "charitynavigator.org",
+      "aum": "~$271M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Chestnut Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "chestnutfamilyfoundation.org",
-      "confidence": "high",
-      "evidence": "started 2017 by Teresa and Ben Chestnut (Ben co-founded Mailchimp)"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "chestnutfamilyfoundation.org",
+    "fo_type_evidence": "started 2017 by Teresa and Ben Chestnut (Ben co-founded Mailchimp)",
     "family": "Chestnut",
-    "location": {
-      "city": "Atlanta",
-      "state": "GA",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "814986125"
     },
+    "thesis": "improving the lives of children in Georgia; funds small/medium organizations with deep community knowledge, dynamic leadership, and an entrepreneurial, access-oriented approach",
+    "thesis_source": "chestnutfamilyfoundation.org",
     "founded": {
       "value": 2017,
       "source": "chestnutfamilyfoundation.org",
       "confidence": "high"
-    },
-    "aum": {
-      "value": "~$277M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "improving the lives of children in Georgia; funds small/medium organizations with deep community knowledge, dynamic leadership, and an entrepreneurial, access-oriented approach",
-      "source": "chestnutfamilyfoundation.org"
     },
     "decision_makers": [
       {
@@ -1027,47 +867,37 @@
       "source": "chestnutfamilyfoundation.org",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "814986125"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Chestnut Family Foundation)",
     "proof_source": "chestnutfamilyfoundation.org (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Chestnut Family Foundation",
+      "city": "Atlanta",
+      "state": "GA",
+      "location_source": "ProPublica 990-PF",
+      "aum": "~$277M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Pathy Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "ProPublica 990-PF; foundation website",
-      "confidence": "medium",
-      "evidence": "private family foundation supporting communities in Canada and around the world"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "ProPublica 990-PF; foundation website",
+    "fo_type_evidence": "private family foundation supporting communities in Canada and around the world",
     "family": "Pathy",
-    "location": {
-      "city": "Canada",
-      "state": null,
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "981735754"
     },
+    "thesis": "advancing dignity, rights, and empowerment of communities in Canada and globally; genuine partnership, collaboration, and support for community-led social change",
+    "thesis_source": "foundation website",
     "founded": {
       "value": null,
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": "~$247M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "advancing dignity, rights, and empowerment of communities in Canada and globally; genuine partnership, collaboration, and support for community-led social change",
-      "source": "foundation website"
     },
     "decision_makers": [],
     "firm_contact": {
@@ -1079,47 +909,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "981735754"
-    },
-    "_country": "Canada",
     "discovered_via": "ProPublica 990-PF trail (Pathy Family Foundation)",
     "proof_source": "foundation website (independent of discovery)",
     "record_confidence": "medium",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": "Canada",
+    "manual_fallback": {
+      "official_name": "Pathy Family Foundation",
+      "city": "Montreal",
+      "state": "QC",
+      "location_source": "ProPublica 990-PF",
+      "aum": "~$247M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Edgerley Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "hinchilla.com; propublica.org",
-      "confidence": "high",
-      "evidence": "private grantmaking foundation established 2004 by Paul and Sandra Edgerley"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "hinchilla.com; propublica.org",
+    "fo_type_evidence": "private grantmaking foundation established 2004 by Paul and Sandra Edgerley",
     "family": "Edgerley",
-    "location": {
-      "city": "Overland Park",
-      "state": "KS",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "201867709"
     },
+    "thesis": "education and leadership, youth opportunity, community health, and homeless/social services, focused on Massachusetts and New England; relationship-driven, no public applications",
+    "thesis_source": "zeffy.com; hinchilla.com",
     "founded": {
       "value": 2004,
       "source": "hinchilla.com",
       "confidence": "high"
-    },
-    "aum": {
-      "value": "~$225M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "education and leadership, youth opportunity, community health, and homeless/social services, focused on Massachusetts and New England; relationship-driven, no public applications",
-      "source": "zeffy.com; hinchilla.com"
     },
     "decision_makers": [
       {
@@ -1150,47 +970,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "201867709"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Edgerley Family Foundation)",
     "proof_source": "hinchilla.com; zeffy.com (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Edgerley Family Foundation",
+      "city": "Boston",
+      "state": "MA",
+      "location_source": "ProPublica 990-PF",
+      "aum": "~$239M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Hao Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "altss.com",
-      "confidence": "low",
-      "evidence": "private grantmaking foundation (EIN 473853918); NOTE: name easily confused with Huo Family Foundation and Hao-Fountain Syndrome nonprofit \u2014 verify identity before relying on this record"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "altss.com",
+    "fo_type_evidence": "private grantmaking foundation (EIN 473853918); NOTE: name easily confused with Huo Family Foundation and Hao-Fountain Syndrome nonprofit \u2014 verify identity before relying on this record",
     "family": "Hao",
-    "location": {
-      "city": "Saratoga Spgs",
-      "state": "NY",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "473853918"
     },
+    "thesis": "impact-oriented grantmaking; funding directed toward community and impact investment portfolios (e.g., Turner Impact Capital)",
+    "thesis_source": "altss.com",
     "founded": {
       "value": 2017,
       "source": "altss.com",
       "confidence": "medium"
-    },
-    "aum": {
-      "value": "~$188M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "impact-oriented grantmaking; funding directed toward community and impact investment portfolios (e.g., Turner Impact Capital)",
-      "source": "altss.com"
     },
     "decision_makers": [],
     "firm_contact": {
@@ -1202,47 +1012,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "473853918"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Hao Family Foundation)",
     "proof_source": "altss.com (independent of discovery)",
     "record_confidence": "low",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Hao Family Foundation",
+      "city": "Saratoga Springs",
+      "state": "NY",
+      "location_source": "ProPublica 990-PF",
+      "aum": "~$188M-$304M",
+      "aum_note": "sources disagree; recorded as range pending verification",
+      "aum_source": "ProPublica 990-PF; altss.com"
     }
   },
   {
     "entity": "Pichai Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "hinchilla.com; causeiq.com",
-      "confidence": "high",
-      "evidence": "private charitable foundation founded by Sundar Pichai (Alphabet/Google CEO) and Anjali Pichai"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "hinchilla.com; causeiq.com",
+    "fo_type_evidence": "private charitable foundation founded by Sundar Pichai (Alphabet/Google CEO) and Anjali Pichai",
     "family": "Pichai",
-    "location": {
-      "city": "San Francisco",
-      "state": "CA",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "832405611"
     },
+    "thesis": "education, technology and STEM initiatives, and community development; operates as a private foundation without a public application process",
+    "thesis_source": "hinchilla.com; causeiq.com",
     "founded": {
       "value": null,
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": "~$172M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "education, technology and STEM initiatives, and community development; operates as a private foundation without a public application process",
-      "source": "hinchilla.com; causeiq.com"
     },
     "decision_makers": [
       {
@@ -1273,47 +1073,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "832405611"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Pichai Family Foundation)",
     "proof_source": "hinchilla.com; causeiq.com (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Pichai Family Foundation",
+      "city": "San Francisco",
+      "state": "CA",
+      "location_source": "causeiq.com",
+      "aum": "~$172M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Farmer Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "farmerfamilyfoundation.com",
-      "confidence": "medium",
-      "evidence": "charitable family foundation serving families and communities in West Virginia and SW Pennsylvania"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "farmerfamilyfoundation.com",
+    "fo_type_evidence": "charitable family foundation serving families and communities in West Virginia and SW Pennsylvania",
     "family": "Farmer",
-    "location": {
-      "city": "Cincinnati",
-      "state": "OH",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "311256614"
     },
+    "thesis": "raising funds for families and communities in need across West Virginia and Southwestern Pennsylvania; annual charity golf fundraiser",
+    "thesis_source": "farmerfamilyfoundation.com",
     "founded": {
       "value": null,
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": "~$161M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "raising funds for families and communities in need across West Virginia and Southwestern Pennsylvania; annual charity golf fundraiser",
-      "source": "farmerfamilyfoundation.com"
     },
     "decision_makers": [],
     "firm_contact": {
@@ -1325,47 +1115,37 @@
       "source": "farmerfamilyfoundation.com",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "311256614"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Farmer Family Foundation)",
     "proof_source": "farmerfamilyfoundation.com (independent of discovery)",
     "record_confidence": "medium",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Farmer Family Foundation",
+      "city": "Cincinnati",
+      "state": "OH",
+      "location_source": "ProPublica 990-PF",
+      "aum": "~$161M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Names Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "namesfamilyfoundation.org",
-      "confidence": "high",
-      "evidence": "founded 1996 by Scott and Evelyn 'Sis' Names (founders of Scott's Athletic Equipment)"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "namesfamilyfoundation.org",
+    "fo_type_evidence": "founded 1996 by Scott and Evelyn 'Sis' Names (founders of Scott's Athletic Equipment)",
     "family": "Names",
-    "location": {
-      "city": "Fircrest",
-      "state": "WA",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "943250195"
     },
+    "thesis": "supporting nonprofits focused on wellness, sports, and physical fitness, primarily in Pierce County / Puget Sound, Washington",
+    "thesis_source": "namesfamilyfoundation.org",
     "founded": {
       "value": 1996,
       "source": "namesfamilyfoundation.org",
       "confidence": "high"
-    },
-    "aum": {
-      "value": "~$160M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "supporting nonprofits focused on wellness, sports, and physical fitness, primarily in Pierce County / Puget Sound, Washington",
-      "source": "namesfamilyfoundation.org"
     },
     "decision_makers": [],
     "firm_contact": {
@@ -1377,47 +1157,37 @@
       "source": "namesfamilyfoundation.org",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "943250195"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Names Family Foundation)",
     "proof_source": "namesfamilyfoundation.org (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Names Family Foundation",
+      "city": "Fircrest",
+      "state": "WA",
+      "location_source": "ProPublica 990-PF",
+      "aum": "~$160M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Bezos Expeditions",
-    "fo_type": {
-      "value": "single",
-      "source": "andsimple.co; eagle-private.com",
-      "confidence": "medium",
-      "evidence": "Jeff Bezos's private single-family office (distinct from the Bezos Family Foundation run by his parents)"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "andsimple.co; eagle-private.com",
+    "fo_type_evidence": "Jeff Bezos's private single-family office (distinct from the Bezos Family Foundation run by his parents)",
     "family": "Bezos",
-    "location": {
-      "city": "Mercer Island",
-      "state": "WA",
-      "source": "andsimple.co"
+    "identifiers": {
+      "cik": null,
+      "ein": null
     },
+    "thesis": "venture capital, private equity, and direct personal investments \u2014 disruptive technology, aerospace (Blue Origin), and media (The Washington Post)",
+    "thesis_source": "andsimple.co; eagle-private.com",
     "founded": {
       "value": 2005,
       "source": "andsimple.co",
       "confidence": "high"
-    },
-    "aum": {
-      "value": "~$100B-$200B",
-      "note": "press estimates vary widely",
-      "source": "caproasia.com; andsimple.co"
-    },
-    "thesis": {
-      "value": "venture capital, private equity, and direct personal investments \u2014 disruptive technology, aerospace (Blue Origin), and media (The Washington Post)",
-      "source": "andsimple.co; eagle-private.com"
     },
     "decision_makers": [
       {
@@ -1448,47 +1218,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": null
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Bezos Family Foundation) -> led to the separate single-family office",
     "proof_source": "andsimple.co; eagle-private.com (independent of discovery)",
     "record_confidence": "medium",
-    "pipeline_provenance": {
-      "location": "manual",
-      "aum": "manual",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Bezos Expeditions",
+      "city": "Mercer Island",
+      "state": "WA",
+      "location_source": "andsimple.co",
+      "aum": "~$100B-$200B",
+      "aum_note": "press estimates vary widely",
+      "aum_source": "caproasia.com; andsimple.co"
     }
   },
   {
     "entity": "Linde Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "hinchilla.com; insidephilanthropy.com",
-      "confidence": "high",
-      "evidence": "private grantmaking foundation established 2000 by Edward H. and Joyce Linde (Boston Properties co-founder)"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "hinchilla.com; insidephilanthropy.com",
+    "fo_type_evidence": "private grantmaking foundation established 2000 by Edward H. and Joyce Linde (Boston Properties co-founder)",
     "family": "Linde",
-    "location": {
-      "city": "Boston",
-      "state": "MA",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "046904949"
     },
+    "thesis": "arts, education, youth/children's services, and medical research in greater Boston (Dana-Farber, Tanglewood, MFA, Beth Israel Deaconess); no public application process",
+    "thesis_source": "hinchilla.com; insidephilanthropy.com",
     "founded": {
       "value": 2000,
       "source": "hinchilla.com",
       "confidence": "high"
-    },
-    "aum": {
-      "value": "~$160M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "arts, education, youth/children's services, and medical research in greater Boston (Dana-Farber, Tanglewood, MFA, Beth Israel Deaconess); no public application process",
-      "source": "hinchilla.com; insidephilanthropy.com"
     },
     "decision_makers": [
       {
@@ -1510,47 +1270,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "046904949"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Linde Family Foundation)",
     "proof_source": "hinchilla.com; insidephilanthropy.com (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Linde Family Foundation",
+      "city": "Boston",
+      "state": "MA",
+      "location_source": "instrumentl.com",
+      "aum": "~$214M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Pritzker Family Foundation (J.B. & M.K. Pritzker)",
-    "fo_type": {
-      "value": "single",
-      "source": "pritzkerchildrensinitiative.org",
-      "confidence": "medium",
-      "evidence": "the J.B. and M.K. Pritzker branch foundation, founded 2001; NOTE: 'Pritzker Family Foundation' spans multiple independent branch entities \u2014 this record is one specific branch"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "pritzkerchildrensinitiative.org",
+    "fo_type_evidence": "the J.B. and M.K. Pritzker branch foundation, founded 2001; NOTE: 'Pritzker Family Foundation' spans multiple independent branch entities \u2014 this record is one specific branch",
     "family": "Pritzker (J.B. & M.K. branch)",
-    "location": {
-      "city": "Chicago",
-      "state": "IL",
-      "source": "ProPublica 990-PF"
+    "identifiers": {
+      "cik": null,
+      "ein": null
     },
+    "thesis": "social and economic justice, equity, and early childhood development (prenatal to age three) via the Pritzker Children's Initiative",
+    "thesis_source": "pritzkerchildrensinitiative.org",
     "founded": {
       "value": 2001,
       "source": "pritzkerchildrensinitiative.org",
       "confidence": "high"
-    },
-    "aum": {
-      "value": "~$148M",
-      "note": "EIN/branch mapping should be verified given multiple Pritzker entities",
-      "source": "ProPublica 990-PF"
-    },
-    "thesis": {
-      "value": "social and economic justice, equity, and early childhood development (prenatal to age three) via the Pritzker Children's Initiative",
-      "source": "pritzkerchildrensinitiative.org"
     },
     "decision_makers": [
       {
@@ -1581,47 +1331,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": null
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Pritzker Family Foundation)",
     "proof_source": "pritzkerchildrensinitiative.org (independent of discovery)",
     "record_confidence": "medium",
-    "pipeline_provenance": {
-      "location": "manual",
-      "aum": "manual",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Pritzker Family Foundation (J.B. & M.K. Pritzker)",
+      "city": "Chicago",
+      "state": "IL",
+      "location_source": "ProPublica 990-PF",
+      "aum": "~$148M",
+      "aum_note": "EIN/branch mapping should be verified given multiple Pritzker entities",
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Sundheim Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "forbes.com; instrumentl.com",
-      "confidence": "high",
-      "evidence": "private foundation established and managed by Daniel Sundheim (D1 Capital Partners) and Brett Sundheim"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "forbes.com; instrumentl.com",
+    "fo_type_evidence": "private foundation established and managed by Daniel Sundheim (D1 Capital Partners) and Brett Sundheim",
     "family": "Sundheim",
-    "location": {
-      "city": "New York",
-      "state": "NY",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "831563495"
     },
+    "thesis": "higher-education student aid, medical research (type 1 diabetes), and contemporary art; major gifts to UPenn and the Diabetes Research Institute",
+    "thesis_source": "almanac.upenn.edu; diabetesresearch.org",
     "founded": {
       "value": null,
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": "~$83M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "higher-education student aid, medical research (type 1 diabetes), and contemporary art; major gifts to UPenn and the Diabetes Research Institute",
-      "source": "almanac.upenn.edu; diabetesresearch.org"
     },
     "decision_makers": [
       {
@@ -1652,47 +1392,37 @@
       "source": "propublica.org 990-PF",
       "confidence": "medium"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "831563495"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Sundheim Family Foundation)",
     "proof_source": "forbes.com; almanac.upenn.edu (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Sundheim Family Foundation",
+      "city": "New York",
+      "state": "NY",
+      "location_source": "propublica.org",
+      "aum": "~$104M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Goldring Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "goldring/woldenberg foundation materials",
-      "confidence": "medium",
-      "evidence": "Goldring & Woldenberg family foundations (Sazerac / New Orleans); funds Greater New Orleans nonprofits"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "goldring/woldenberg foundation materials",
+    "fo_type_evidence": "Goldring & Woldenberg family foundations (Sazerac / New Orleans); funds Greater New Orleans nonprofits",
     "family": "Goldring",
-    "location": {
-      "city": "Metairie",
-      "state": "LA",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "726022666"
     },
+    "thesis": "Greater New Orleans philanthropy \u2014 animals & environment, arts & culture, civic affairs, education/opportunities for children, human services, health, and Jewish causes",
+    "thesis_source": "foundation materials",
     "founded": {
       "value": null,
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": "~$135M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "Greater New Orleans philanthropy \u2014 animals & environment, arts & culture, civic affairs, education/opportunities for children, human services, health, and Jewish causes",
-      "source": "foundation materials"
     },
     "decision_makers": [],
     "firm_contact": {
@@ -1704,48 +1434,38 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "726022666"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Goldring Family Foundation)",
     "proof_source": "foundation materials (independent of discovery)",
     "record_confidence": "medium",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Goldring Family Foundation",
+      "city": "Metairie",
+      "state": "LA",
+      "location_source": "ProPublica 990-PF",
+      "aum": "~$135M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Tsao Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "tsaofoundation.org",
-      "confidence": "low",
-      "evidence": "established by Mrs Tsao Ng Yu Shun in honour of her father and father-in-law; led by granddaughter Dr Mary Ann Tsao"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "tsaofoundation.org",
+    "fo_type_evidence": "established by Mrs Tsao Ng Yu Shun in honour of her father and father-in-law; led by granddaughter Dr Mary Ann Tsao",
     "family": "Tsao",
-    "location": {
-      "city": "Corona Dl Mar",
-      "state": "CA",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "202043022"
     },
+    "thesis": "enhancing quality of life for older persons; community-based eldercare, health and social services (Hua Mei), ageing-in-place and self-determination for seniors",
+    "thesis_source": "tsaofoundation.org",
     "founded": {
       "value": null,
       "note": "founder established it at age 86; exact year unverified",
       "source": "tsaofoundation.org",
       "confidence": "low"
-    },
-    "aum": {
-      "value": "~$88M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "enhancing quality of life for older persons; community-based eldercare, health and social services (Hua Mei), ageing-in-place and self-determination for seniors",
-      "source": "tsaofoundation.org"
     },
     "decision_makers": [
       {
@@ -1767,47 +1487,37 @@
       "source": "tsaofoundation.org",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "202043022"
-    },
-    "_country": "Singapore",
     "discovered_via": "ProPublica 990-PF trail (Tsao Family Foundation, listed CA)",
     "proof_source": "tsaofoundation.org (independent of discovery)",
     "record_confidence": "low",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": "Singapore",
+    "manual_fallback": {
+      "official_name": "Tsao Foundation",
+      "city": "Singapore",
+      "state": null,
+      "location_source": "tsaofoundation.org",
+      "aum": "~$88M",
+      "aum_note": "AUM came from a US 990-PF lead; the entity described here is the Singapore Tsao Foundation \u2014 VERIFY these are the same entity before relying on this figure",
+      "aum_source": "ProPublica 990-PF (US-listed lead)"
     }
   },
   {
     "entity": "Slaggie Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "instrumentl.com; smumn.edu",
-      "confidence": "high",
-      "evidence": "private foundation established and led by Stephen and Barbara Slaggie"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "instrumentl.com; smumn.edu",
+    "fo_type_evidence": "private foundation established and led by Stephen and Barbara Slaggie",
     "family": "Slaggie",
-    "location": {
-      "city": "Winona",
-      "state": "MN",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "411878894"
     },
+    "thesis": "education (Catholic schools, Saint Mary's University of MN), healthcare (Mayo Clinic), human services, and community arts",
+    "thesis_source": "smumn.edu; mayomagazine.mayoclinic.org",
     "founded": {
       "value": null,
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": "~$69M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "education (Catholic schools, Saint Mary's University of MN), healthcare (Mayo Clinic), human services, and community arts",
-      "source": "smumn.edu; mayomagazine.mayoclinic.org"
     },
     "decision_makers": [
       {
@@ -1838,47 +1548,37 @@
       "source": "grantmakers.io",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "411878894"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Slaggie Family Foundation)",
     "proof_source": "smumn.edu; grantmakers.io (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Slaggie Family Foundation",
+      "city": "Winona",
+      "state": "MN",
+      "location_source": "instrumentl.com",
+      "aum": "~$69M",
+      "aum_note": "one source cites >$101M; recorded from 990",
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Zorich Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "hinchilla.com; instrumentl.com",
-      "confidence": "high",
-      "evidence": "private charitable foundation established 2000 by Robert L. and Barbara Zorich"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "hinchilla.com; instrumentl.com",
+    "fo_type_evidence": "private charitable foundation established 2000 by Robert L. and Barbara Zorich",
     "family": "Zorich",
-    "location": {
-      "city": "Houston",
-      "state": "TX",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "760664404"
     },
+    "thesis": "higher education and energy research, Christian/Protestant organizations, healthcare, and student entrepreneurship awards",
+    "thesis_source": "hinchilla.com; lifestylesmagazine.com",
     "founded": {
       "value": 2000,
       "source": "hinchilla.com",
       "confidence": "high"
-    },
-    "aum": {
-      "value": "~$65M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "higher education and energy research, Christian/Protestant organizations, healthcare, and student entrepreneurship awards",
-      "source": "hinchilla.com; lifestylesmagazine.com"
     },
     "decision_makers": [
       {
@@ -1909,47 +1609,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "760664404"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Zorich Family Foundation)",
     "proof_source": "hinchilla.com; lifestylesmagazine.com (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Zorich Family Foundation",
+      "city": "Houston",
+      "state": "TX",
+      "location_source": "hinchilla.com",
+      "aum": "~$65M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Crabill Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "crabillfamilyfoundation.org",
-      "confidence": "high",
-      "evidence": "founded late 2018 by Angela and Scott Crabill"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "crabillfamilyfoundation.org",
+    "fo_type_evidence": "founded late 2018 by Angela and Scott Crabill",
     "family": "Crabill",
-    "location": {
-      "city": "Denver",
-      "state": "CO",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "464325245"
     },
+    "thesis": "access to healthcare, education, housing, and arts, focused on Springfield, OH and San Francisco, CA; strategy still developing",
+    "thesis_source": "crabillfamilyfoundation.org",
     "founded": {
       "value": 2018,
       "source": "crabillfamilyfoundation.org",
       "confidence": "high"
-    },
-    "aum": {
-      "value": "~$12M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "access to healthcare, education, housing, and arts, focused on Springfield, OH and San Francisco, CA; strategy still developing",
-      "source": "crabillfamilyfoundation.org"
     },
     "decision_makers": [
       {
@@ -1980,47 +1670,37 @@
       "source": "crabillfamilyfoundation.org",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "464325245"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Crabill Family Foundation)",
     "proof_source": "crabillfamilyfoundation.org (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Crabill Family Foundation",
+      "city": "San Francisco",
+      "state": "CA",
+      "location_source": "ProPublica 990-PF",
+      "aum": "~$54M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Marek Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "instrumentl.com; osvnews.com",
-      "confidence": "high",
-      "evidence": "private foundation tied to the Marek family (MAREK Family of Companies, Houston)"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "instrumentl.com; osvnews.com",
+    "fo_type_evidence": "private foundation tied to the Marek family (MAREK Family of Companies, Houston)",
     "family": "Marek",
-    "location": {
-      "city": "Houston",
-      "state": "TX",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "746108373"
     },
+    "thesis": "education, human services, and community/religious (Catholic) programs, largely in Texas",
+    "thesis_source": "osvnews.com; instrumentl.com",
     "founded": {
       "value": null,
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": "~$47M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "education, human services, and community/religious (Catholic) programs, largely in Texas",
-      "source": "osvnews.com; instrumentl.com"
     },
     "decision_makers": [
       {
@@ -2042,47 +1722,37 @@
       "source": "marekfoundation.org",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "746108373"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Marek Family Foundation)",
     "proof_source": "osvnews.com; supportstlukes.org (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Marek Family Foundation",
+      "city": "Houston",
+      "state": "TX",
+      "location_source": "propublica.org",
+      "aum": "~$47M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Spaht Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "spaht foundation materials",
-      "confidence": "high",
-      "evidence": "founded 2019 by Holden and Claire Spaht"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "spaht foundation materials",
+    "fo_type_evidence": "founded 2019 by Holden and Claire Spaht",
     "family": "Spaht",
-    "location": {
-      "city": "San Francisco",
-      "state": "CA",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "832183149"
     },
+    "thesis": "climate, mental health, and the arts; long-term US impact via grants and field-building (e.g., Lindley Center for Student Wellness at W&L; SMU Meadows School of the Arts)",
+    "thesis_source": "foundation materials",
     "founded": {
       "value": 2019,
       "source": "foundation materials",
       "confidence": "high"
-    },
-    "aum": {
-      "value": "~$50M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "climate, mental health, and the arts; long-term US impact via grants and field-building (e.g., Lindley Center for Student Wellness at W&L; SMU Meadows School of the Arts)",
-      "source": "foundation materials"
     },
     "decision_makers": [
       {
@@ -2113,47 +1783,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "832183149"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Spaht Family Foundation)",
     "proof_source": "foundation materials (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Spaht Family Foundation",
+      "city": "San Francisco",
+      "state": "CA",
+      "location_source": "ProPublica 990-PF",
+      "aum": "~$49.7M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Towle Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "hinchilla.com; causeiq.com",
-      "confidence": "high",
-      "evidence": "private family foundation led by Christopher D., Perry E., and Laura H. Towle"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "hinchilla.com; causeiq.com",
+    "fo_type_evidence": "private family foundation led by Christopher D., Perry E., and Laura H. Towle",
     "family": "Towle",
-    "location": {
-      "city": "Greenwood Vlg",
-      "state": "CO",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "431800405"
     },
+    "thesis": "endowments, scholarships, and educational/community outreach; relationship-driven, no public application process",
+    "thesis_source": "hinchilla.com; cityacademystl.org",
     "founded": {
       "value": null,
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": "~$42M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "endowments, scholarships, and educational/community outreach; relationship-driven, no public application process",
-      "source": "hinchilla.com; cityacademystl.org"
     },
     "decision_makers": [
       {
@@ -2184,47 +1844,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "431800405"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Towle Family Foundation)",
     "proof_source": "causeiq.com; cityacademystl.org (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Towle Family Foundation",
+      "city": "Greenwood Village",
+      "state": "CO",
+      "location_source": "ProPublica 990-PF",
+      "aum": "~$42M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Beemok Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "beemok.com; en.wikipedia.org",
-      "confidence": "high",
-      "evidence": "private foundation founded by Ben Navarro and family (Beemok/Sherman Financial), Charleston"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "beemok.com; en.wikipedia.org",
+    "fo_type_evidence": "private foundation founded by Ben Navarro and family (Beemok/Sherman Financial), Charleston",
     "family": "Navarro (Beemok)",
-    "location": {
-      "city": "Charleston",
-      "state": "SC",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "465382571"
     },
+    "thesis": "education and early childhood, community development, and civic projects in the Charleston area; Meeting Street Scholarship Fund",
+    "thesis_source": "beemok.com; meetingstreetscholarshipfund.org",
     "founded": {
       "value": null,
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": "~$37M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "education and early childhood, community development, and civic projects in the Charleston area; Meeting Street Scholarship Fund",
-      "source": "beemok.com; meetingstreetscholarshipfund.org"
     },
     "decision_makers": [
       {
@@ -2246,47 +1896,37 @@
       "source": "beemok.com",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "465382571"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Beemok Family Foundation)",
     "proof_source": "beemok.com; en.wikipedia.org (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Beemok Family Foundation",
+      "city": "Charleston",
+      "state": "SC",
+      "location_source": "instrumentl.com",
+      "aum": "~$37M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Silver Family Foundation (Portland, OR)",
-    "fo_type": {
-      "value": "single",
-      "source": "silverfoundation.org",
-      "confidence": "medium",
-      "evidence": "private grantmaking foundation, Portland OR; NOTE: similarly named entities exist in NJ and MD \u2014 verify EIN maps to the Portland entity"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "silverfoundation.org",
+    "fo_type_evidence": "private grantmaking foundation, Portland OR; NOTE: similarly named entities exist in NJ and MD \u2014 verify EIN maps to the Portland entity",
     "family": "Silver",
-    "location": {
-      "city": "Portland",
-      "state": "OR",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "61532898"
     },
+    "thesis": "youth development, college preparation, retention, and mentoring for underserved youth across Oregon, Washington, and Idaho",
+    "thesis_source": "silverfoundation.org; instrumentl.com",
     "founded": {
       "value": null,
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": "~$34M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "youth development, college preparation, retention, and mentoring for underserved youth across Oregon, Washington, and Idaho",
-      "source": "silverfoundation.org; instrumentl.com"
     },
     "decision_makers": [],
     "firm_contact": {
@@ -2298,48 +1938,38 @@
       "source": "silverfoundation.org",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "61532898"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Silver Family Foundation)",
     "proof_source": "silverfoundation.org (independent of discovery)",
     "record_confidence": "medium",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Silver Family Foundation (Portland, OR)",
+      "city": "Portland",
+      "state": "OR",
+      "location_source": "silverfoundation.org",
+      "aum": "~$34M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Yarbrough Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "insidephilanthropy.com; causeiq.com",
-      "confidence": "high",
-      "evidence": "private foundation established ~2006-2008 by Jon Yarbrough (Video Gaming Technologies)"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "insidephilanthropy.com; causeiq.com",
+    "fo_type_evidence": "private foundation established ~2006-2008 by Jon Yarbrough (Video Gaming Technologies)",
     "family": "Yarbrough",
-    "location": {
-      "city": "Franklin",
-      "state": "TN",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "205980265"
     },
+    "thesis": "education and youth (Battle Ground Academy), health and human services, and Christian/community outreach",
+    "thesis_source": "insidephilanthropy.com",
     "founded": {
       "value": 2007,
       "note": "sources say ~2006-2008",
       "source": "insidephilanthropy.com",
       "confidence": "medium"
-    },
-    "aum": {
-      "value": "~$28M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "education and youth (Battle Ground Academy), health and human services, and Christian/community outreach",
-      "source": "insidephilanthropy.com"
     },
     "decision_makers": [
       {
@@ -2361,47 +1991,37 @@
       "source": "causeiq.com",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "205980265"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Yarbrough Family Foundation)",
     "proof_source": "insidephilanthropy.com; causeiq.com (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Yarbrough Family Foundation",
+      "city": "Franklin",
+      "state": "TN",
+      "location_source": "causeiq.com",
+      "aum": "~$24M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Baustert Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "hinchilla.com; niu.edu",
-      "confidence": "high",
-      "evidence": "private independent foundation established 2016 by James and Theo Baustert (James co-founded Cardiac Pacemakers, Inc.)"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "hinchilla.com; niu.edu",
+    "fo_type_evidence": "private independent foundation established 2016 by James and Theo Baustert (James co-founded Cardiac Pacemakers, Inc.)",
     "family": "Baustert",
-    "location": {
-      "city": "St Paul",
-      "state": "MN",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "473790400"
     },
+    "thesis": "education, health sciences, and human services in Illinois and Minnesota; invitation-only, family-run board (e.g., $40M gift to NIU's Baustert Bahwell Health Technology Center)",
+    "thesis_source": "niu.edu; philanthropy.com",
     "founded": {
       "value": 2016,
       "source": "hinchilla.com",
       "confidence": "high"
-    },
-    "aum": {
-      "value": "~$31M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "education, health sciences, and human services in Illinois and Minnesota; invitation-only, family-run board (e.g., $40M gift to NIU's Baustert Bahwell Health Technology Center)",
-      "source": "niu.edu; philanthropy.com"
     },
     "decision_makers": [
       {
@@ -2432,47 +2052,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "473790400"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Baustert Family Foundation)",
     "proof_source": "niu.edu; philanthropy.com (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Baustert Family Foundation",
+      "city": "St. Paul",
+      "state": "MN",
+      "location_source": "hinchilla.com",
+      "aum": "~$78M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Mondre Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "instrumentl.com; almanac.upenn.edu",
-      "confidence": "high",
-      "evidence": "established 2019 by Greg Mondre (co-CEO of Silver Lake) and Alexandra Mondre"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "instrumentl.com; almanac.upenn.edu",
+    "fo_type_evidence": "established 2019 by Greg Mondre (co-CEO of Silver Lake) and Alexandra Mondre",
     "family": "Mondre",
-    "location": {
-      "city": "New York",
-      "state": "NY",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "833036876"
     },
+    "thesis": "educational access and middle-income student financial aid (e.g., $20M Mondre Family Initiative at UPenn)",
+    "thesis_source": "almanac.upenn.edu; penntoday.upenn.edu",
     "founded": {
       "value": 2019,
       "source": "instrumentl.com",
       "confidence": "high"
-    },
-    "aum": {
-      "value": "~$16M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "educational access and middle-income student financial aid (e.g., $20M Mondre Family Initiative at UPenn)",
-      "source": "almanac.upenn.edu; penntoday.upenn.edu"
     },
     "decision_makers": [
       {
@@ -2503,47 +2113,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "833036876"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Mondre Family Foundation)",
     "proof_source": "almanac.upenn.edu; penntoday.upenn.edu (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Mondre Family Foundation",
+      "city": "New York",
+      "state": "NY",
+      "location_source": "causeiq.com",
+      "aum": "~$51M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Konzen Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "hinchilla.com; causeiq.com",
-      "confidence": "high",
-      "evidence": "private grantmaking family foundation, invitation-only"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "hinchilla.com; causeiq.com",
+    "fo_type_evidence": "private grantmaking family foundation, invitation-only",
     "family": "Konzen",
-    "location": {
-      "city": "Issaquah",
-      "state": "WA",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "853910161"
     },
+    "thesis": "grantmaking to pre-selected charitable groups (e.g., CARE USA) and community organizations; invitation-only, trustee-selected",
+    "thesis_source": "causeiq.com; hinchilla.com",
     "founded": {
       "value": null,
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": "~$18M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "grantmaking to pre-selected charitable groups (e.g., CARE USA) and community organizations; invitation-only, trustee-selected",
-      "source": "causeiq.com; hinchilla.com"
     },
     "decision_makers": [],
     "firm_contact": {
@@ -2555,47 +2155,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "853910161"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Konzen Family Foundation)",
     "proof_source": "causeiq.com; hinchilla.com (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Konzen Family Foundation",
+      "city": "Bellevue",
+      "state": "WA",
+      "location_source": "causeiq.com",
+      "aum": "~$18M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Cinelli Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "cinelli foundation materials",
-      "confidence": "high",
-      "evidence": "created by Al and Sharon Cinelli"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "cinelli foundation materials",
+    "fo_type_evidence": "created by Al and Sharon Cinelli",
     "family": "Cinelli",
-    "location": {
-      "city": "Lawrence",
-      "state": "KS",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "873895218"
     },
+    "thesis": "cures for blood, pancreatic, and breast cancers; and accelerated high-school learning to build a more educated workforce across socio-economic backgrounds",
+    "thesis_source": "cinelli foundation materials",
     "founded": {
       "value": null,
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": "~$26M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "cures for blood, pancreatic, and breast cancers; and accelerated high-school learning to build a more educated workforce across socio-economic backgrounds",
-      "source": "cinelli foundation materials"
     },
     "decision_makers": [
       {
@@ -2626,47 +2216,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "873895218"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Cinelli Family Foundation)",
     "proof_source": "foundation materials (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Cinelli Family Foundation",
+      "city": "Lawrence",
+      "state": "KS",
+      "location_source": "ProPublica 990-PF",
+      "aum": "~$26M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Dunlap Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "candid.org; grantmakers.io",
-      "confidence": "high",
-      "evidence": "private independent foundation honoring Edward B. Dunlap Jr. and family; Greater Pittsburgh"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "candid.org; grantmakers.io",
+    "fo_type_evidence": "private independent foundation honoring Edward B. Dunlap Jr. and family; Greater Pittsburgh",
     "family": "Dunlap",
-    "location": {
-      "city": "Canonsburg",
-      "state": "PA",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "884360481"
     },
+    "thesis": "faith-inspired giving for human services, education, and strengthening families in the Greater Pittsburgh region",
+    "thesis_source": "candid.org",
     "founded": {
       "value": null,
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": "~$0M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "faith-inspired giving for human services, education, and strengthening families in the Greater Pittsburgh region",
-      "source": "candid.org"
     },
     "decision_makers": [
       {
@@ -2689,47 +2269,37 @@
       "confidence": "medium",
       "note": "administered via PNC private foundation solutions"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "884360481"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Dunlap Family Foundation)",
     "proof_source": "candid.org; grantmakers.io (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Dunlap Family Foundation",
+      "city": "Canonsburg",
+      "state": "PA",
+      "location_source": "ProPublica 990-PF",
+      "aum": "~$64M",
+      "aum_note": null,
+      "aum_source": "candid.org"
     }
   },
   {
     "entity": "Adelson Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "adelsonfoundation.org; hinchilla.com",
-      "confidence": "high",
-      "evidence": "private charitable foundation established 2007 by Sheldon and Miriam Adelson"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "adelsonfoundation.org; hinchilla.com",
+    "fo_type_evidence": "private charitable foundation established 2007 by Sheldon and Miriam Adelson",
     "family": "Adelson",
-    "location": {
-      "city": "Needham",
-      "state": "MA",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "047024330"
     },
+    "thesis": "strengthening Israel and the Jewish people \u2014 Israel advocacy, Jewish/Zionist education (Birthright), Holocaust and antisemitism awareness, and welfare/healthcare",
+    "thesis_source": "adelsonfoundation.org; hinchilla.com",
     "founded": {
       "value": 2007,
       "source": "hinchilla.com",
       "confidence": "high"
-    },
-    "aum": {
-      "value": "~$1M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "strengthening Israel and the Jewish people \u2014 Israel advocacy, Jewish/Zionist education (Birthright), Holocaust and antisemitism awareness, and welfare/healthcare",
-      "source": "adelsonfoundation.org; hinchilla.com"
     },
     "decision_makers": [
       {
@@ -2751,47 +2321,37 @@
       "source": "adelsonfoundation.org",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "047024330"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Adelson Family Foundation)",
     "proof_source": "adelsonfoundation.org; hinchilla.com (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Adelson Family Foundation",
+      "city": "Needham",
+      "state": "MA",
+      "location_source": "ProPublica 990-PF",
+      "aum": null,
+      "aum_note": "990 assets modest (~$743K); operates as a flow-through funding tens of millions annually",
+      "aum_source": "ProPublica 990-PF; hinchilla.com"
     }
   },
   {
     "entity": "Timashev Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "timashev foundation materials",
-      "confidence": "medium",
-      "evidence": "family foundation built on Ratmir Timashev's entrepreneurial success (Veeam co-founder), Ohio"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "timashev foundation materials",
+    "fo_type_evidence": "family foundation built on Ratmir Timashev's entrepreneurial success (Veeam co-founder), Ohio",
     "family": "Timashev",
-    "location": {
-      "city": "New York",
-      "state": "NY",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "821674572"
     },
+    "thesis": "accelerating education through innovation \u2014 the Center for Software Innovation at Ohio State, and the Technology Leaders of the Future program for high-school innovators",
+    "thesis_source": "timashev foundation materials",
     "founded": {
       "value": null,
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": "~$1M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "accelerating education through innovation \u2014 the Center for Software Innovation at Ohio State, and the Technology Leaders of the Future program for high-school innovators",
-      "source": "timashev foundation materials"
     },
     "decision_makers": [
       {
@@ -2813,47 +2373,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "821674572"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Timashev Family Foundation)",
     "proof_source": "timashev foundation materials (independent of discovery)",
     "record_confidence": "medium",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Timashev Foundation",
+      "city": "New York",
+      "state": "NY",
+      "location_source": "ProPublica 990-PF",
+      "aum": "~$1M",
+      "aum_note": "990 assets small; may fund from personal wealth",
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Kopp Family Office, LLC",
-    "fo_type": {
-      "value": "single",
-      "source": "koppfamilyfoundation.org; quiverquant.com",
-      "confidence": "high",
-      "evidence": "single-family office tied to financier Lee Kopp; related Kopp Family Foundation established by Lee and Barbara Kopp"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "koppfamilyfoundation.org; quiverquant.com",
+    "fo_type_evidence": "single-family office tied to financier Lee Kopp; related Kopp Family Foundation established by Lee and Barbara Kopp",
     "family": "Kopp",
-    "location": {
-      "city": "MINNETONKA",
-      "state": "MN",
-      "source": "SEC EDGAR submissions (API)"
+    "identifiers": {
+      "cik": "0001683689",
+      "ein": null
     },
+    "thesis": "manages the Kopp family's private wealth and public-equity portfolio (ETFs and major equities); related family philanthropy in education and emergency assistance in Minnesota",
+    "thesis_source": "fintel.io; koppfamilyfoundation.org",
     "founded": {
       "value": null,
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": "~$163M",
-      "note": "reported public-equity 13F holdings; total AUM may differ",
-      "source": "quiverquant.com (SEC 13F)"
-    },
-    "thesis": {
-      "value": "manages the Kopp family's private wealth and public-equity portfolio (ETFs and major equities); related family philanthropy in education and emergency assistance in Minnesota",
-      "source": "fintel.io; koppfamilyfoundation.org"
     },
     "decision_makers": [
       {
@@ -2875,47 +2425,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": "0001683689",
-      "ein": null
-    },
-    "_country": null,
     "discovered_via": "SEC EDGAR full-text search, form 13F-HR",
     "proof_source": "koppfamilyfoundation.org; quiverquant.com (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "manual",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Kopp Family Office, LLC",
+      "city": "Minnetonka",
+      "state": "MN",
+      "location_source": "SEC EDGAR (CIK 0001683689)",
+      "aum": "~$163M",
+      "aum_note": "reported public-equity 13F holdings; total AUM may differ",
+      "aum_source": "quiverquant.com (SEC 13F)"
     }
   },
   {
     "entity": "Kallir Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "philanthropy.org 990",
-      "confidence": "high",
-      "evidence": "private family foundation, New York; led by family member Jane Kallir as President"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "philanthropy.org 990",
+    "fo_type_evidence": "private family foundation, New York; led by family member Jane Kallir as President",
     "family": "Kallir",
-    "location": {
-      "city": "New York",
-      "state": "NY",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "204144184"
     },
+    "thesis": "private family grantmaking foundation based in New York, NY",
+    "thesis_source": "philanthropy.org 990",
     "founded": {
       "value": null,
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": "~$6M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "private family grantmaking foundation based in New York, NY",
-      "source": "philanthropy.org 990"
     },
     "decision_makers": [
       {
@@ -2937,47 +2477,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "204144184"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Kallir Family Foundation)",
     "proof_source": "philanthropy.org 990 (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Kallir Family Foundation",
+      "city": "New York",
+      "state": "NY",
+      "location_source": "philanthropy.org 990",
+      "aum": "~$51M",
+      "aum_note": "net assets FY2024; $62.7M revenue that year",
+      "aum_source": "philanthropy.org 990 (Pt I)"
     }
   },
   {
     "entity": "Winiarski Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "insidephilanthropy.com; si.edu",
-      "confidence": "high",
-      "evidence": "private independent foundation established 2007 by Warren Winiarski (Stag's Leap Wine Cellars) and Barbara Winiarski"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "insidephilanthropy.com; si.edu",
+    "fo_type_evidence": "private independent foundation established 2007 by Warren Winiarski (Stag's Leap Wine Cellars) and Barbara Winiarski",
     "family": "Winiarski",
-    "location": {
-      "city": "Yountville",
-      "state": "CA",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "260474242"
     },
+    "thesis": "education, conservation (Napa land/agricultural easements), healthcare, and preserving food and wine history; pre-selected partnerships, no unsolicited proposals",
+    "thesis_source": "insidephilanthropy.com; si.edu",
     "founded": {
       "value": 2007,
       "source": "insidephilanthropy.com",
       "confidence": "high"
-    },
-    "aum": {
-      "value": "~$14M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "education, conservation (Napa land/agricultural easements), healthcare, and preserving food and wine history; pre-selected partnerships, no unsolicited proposals",
-      "source": "insidephilanthropy.com; si.edu"
     },
     "decision_makers": [
       {
@@ -2999,47 +2529,37 @@
       "source": null,
       "confidence": "n/a"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "260474242"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Winiarski Family Foundation)",
     "proof_source": "insidephilanthropy.com; si.edu (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Winiarski Family Foundation",
+      "city": "Napa",
+      "state": "CA",
+      "location_source": "insidephilanthropy.com",
+      "aum": "~$14M",
+      "aum_note": "annual giving ~$1-4M; net assets per 990",
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Steans Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "steansfamilyfoundation.org",
-      "confidence": "high",
-      "evidence": "family foundation established 1987; family members personally and actively involved; place-based giving in Chicago"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "steansfamilyfoundation.org",
+    "fo_type_evidence": "family foundation established 1987; family members personally and actively involved; place-based giving in Chicago",
     "family": "Steans",
-    "location": {
-      "city": "Chicago",
-      "state": "IL",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "363486843"
     },
+    "thesis": "place-based community development in North Lawndale (Chicago) and North Chicago \u2014 early childhood, education, employment, and policy/ecosystem work",
+    "thesis_source": "steansfamilyfoundation.org",
     "founded": {
       "value": 1987,
       "source": "steansfamilyfoundation.org",
       "confidence": "high"
-    },
-    "aum": {
-      "value": "~$295M",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "place-based community development in North Lawndale (Chicago) and North Chicago \u2014 early childhood, education, employment, and policy/ecosystem work",
-      "source": "steansfamilyfoundation.org"
     },
     "decision_makers": [],
     "firm_contact": {
@@ -3051,47 +2571,37 @@
       "source": "steansfamilyfoundation.org",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "363486843"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Steans Family Foundation)",
     "proof_source": "steansfamilyfoundation.org (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Steans Family Foundation",
+      "city": "Chicago",
+      "state": "IL",
+      "location_source": "steansfamilyfoundation.org",
+      "aum": "~$295M",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Patterson Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "pattersonfamilyfoundation.org",
-      "confidence": "high",
-      "evidence": "family-led foundation extending the legacy of Neal and Jeanne Patterson (Cerner co-founder)"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "pattersonfamilyfoundation.org",
+    "fo_type_evidence": "family-led foundation extending the legacy of Neal and Jeanne Patterson (Cerner co-founder)",
     "family": "Patterson",
-    "location": {
-      "city": "Kansas City",
-      "state": "MO",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "207550081"
     },
+    "thesis": "helping rural communities thrive \u2014 economic opportunity, education, healthcare, and community engagement across rural Kansas and western Missouri (counties under 50,000 residents)",
+    "thesis_source": "pattersonfamilyfoundation.org",
     "founded": {
       "value": null,
       "source": null,
       "confidence": "n/a"
-    },
-    "aum": {
-      "value": "~$1.5B",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "helping rural communities thrive \u2014 economic opportunity, education, healthcare, and community engagement across rural Kansas and western Missouri (counties under 50,000 residents)",
-      "source": "pattersonfamilyfoundation.org"
     },
     "decision_makers": [
       {
@@ -3113,48 +2623,38 @@
       "source": "pattersonfamilyfoundation.org",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "207550081"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Patterson Family Foundation)",
     "proof_source": "pattersonfamilyfoundation.org (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Patterson Family Foundation",
+      "city": "Kansas City",
+      "state": "MO",
+      "location_source": "pattersonfamilyfoundation.org",
+      "aum": "~$1.5B",
+      "aum_note": null,
+      "aum_source": "ProPublica 990-PF"
     }
   },
   {
     "entity": "Davis Family Foundation",
-    "fo_type": {
-      "value": "single",
-      "source": "davisfoundation.org",
-      "confidence": "high",
-      "evidence": "charitable foundation established by Phyllis C. and H. Halsey Davis (ex-President/Chairman of Shaw's Supermarkets)"
-    },
+    "keep": true,
+    "fo_type": "single",
+    "fo_type_source": "davisfoundation.org",
+    "fo_type_evidence": "charitable foundation established by Phyllis C. and H. Halsey Davis (ex-President/Chairman of Shaw's Supermarkets)",
     "family": "Davis",
-    "location": {
-      "city": "Hanover",
-      "state": "MD",
-      "source": "IRS 990-PF via ProPublica (API)"
+    "identifiers": {
+      "cik": null,
+      "ein": "010751429"
     },
+    "thesis": "supporting educational, medical, and cultural/arts organizations primarily in Maine",
+    "thesis_source": "davisfoundation.org",
     "founded": {
       "value": 1986,
       "source": "davisfoundation.org",
       "confidence": "high",
       "evidence": "grantmaking began 1986"
-    },
-    "aum": {
-      "value": "~$1.4B",
-      "note": null,
-      "source": "IRS 990-PF via ProPublica (API)"
-    },
-    "thesis": {
-      "value": "supporting educational, medical, and cultural/arts organizations primarily in Maine",
-      "source": "davisfoundation.org"
     },
     "decision_makers": [
       {
@@ -3185,18 +2685,18 @@
       "source": "davisfoundation.org",
       "confidence": "high"
     },
-    "identifiers": {
-      "cik": null,
-      "ein": "010751429"
-    },
-    "_country": null,
     "discovered_via": "ProPublica 990-PF trail (Davis Family Foundation)",
     "proof_source": "davisfoundation.org (independent of discovery)",
     "record_confidence": "high",
-    "pipeline_provenance": {
-      "location": "api",
-      "aum": "api",
-      "classification": "human-validated"
+    "_country": null,
+    "manual_fallback": {
+      "official_name": "Davis Family Foundation",
+      "city": "Falmouth",
+      "state": "ME",
+      "location_source": "davisfoundation.org",
+      "aum": null,
+      "aum_note": "grantmaking foundation; net assets per 990",
+      "aum_source": "ProPublica"
     }
   }
 ]

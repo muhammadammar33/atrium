@@ -4,7 +4,7 @@ Retrieval-augmented family-office intelligence search over a verified
 50-record single-family-office dataset. Answers cite source records; the
 system declines when evidence is weak.
 
-**Live demo:** _https://your-app.streamlit.app_
+**Live demo:** _https://atrium-intelligence.streamlit.app/_
 
 ## Architecture
 
